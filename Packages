@@ -1,12 +1,12 @@
-Package: com.mtac.ios11system
-Version: 1.0
+Package: com.mtac.iOS11System
+Version: 1.1.0
 Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
-Filename: ./debs/com.mtac.ios11system_1.0_iphoneos-arm.deb
-Size: 12188
-MD5sum: 47af59f1ca2ac75f318affdcb4d88b56
-SHA1: 2955f84830c506203754da084afbc18ce7d2012e
-SHA256: b6a0cd2aa462b97a46cf07249b611f61b28a96e65a580d4a4bfc1772914865fe
+Filename: ./debs/com.mtac.ios11system_1.1.0_iphoneos-arm.deb
+Size: 11992
+MD5sum: 5557d95593152aa5e522ca4893bcccc6
+SHA1: c573e9fda106fc570ef927693c02082510533ba8
+SHA256: 874bb6fac8e68a3ae350f4b14bfdef4d2d26d01545fec9f26d73287b299be062
 Section: Themes
 Description: An Anemone theme to add iOS 11's new system icons to iOS 10 and below
 Author: MTAC <mtactheming@gmail.com>
