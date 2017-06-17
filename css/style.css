@@ -14,11 +14,10 @@ html {
 
 body {
 		padding-top: 150px;
-		/*margin-top: 150px;*/
 		height: 100%;
 		margin: 0;
-		/*background-repeat: no-repeat;
-		background-attachment: fixed;*/
+		/*background-repeat: no-repeat;*/
+		background-attachment: fixed;
 		background: #5674b9;
 		/*background: -webkit-linear-gradient(left top, #448ccb, #5674b9);
 		background: -o-linear-gradient(bottom right, #448ccb, #5674b9);
