@@ -1,9 +1,9 @@
-Package: com.mtac.ios11system
+Package: com.mtac.iOS11System
 Name: iOS 11 System Icons
-Version: 1.0
+Version: 1.1.0
 Architecture: iphoneos-arm
 Description: An Anemone theme to add iOS 11's new system icons to iOS 10 and below
-Homepage: 
+Homepage:
 Depiction:
 Maintainer: MTAC <mtactheming@gmail.com>
 Author: MTAC <mtactheming@gmail.com>
