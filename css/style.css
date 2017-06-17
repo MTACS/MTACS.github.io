@@ -26,5 +26,6 @@ body {
 	}
 
 #all {
-	margin-top: 150;
+	display: flex;
+	align-items: center;
 }
