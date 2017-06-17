@@ -1,0 +1,8 @@
+Origin: MTAC’s Repo
+Label: MTAC’s Repo
+Suite: beta
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: MTAC’s Repo Cydia Repository
