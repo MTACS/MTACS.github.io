@@ -17,9 +17,9 @@ body {
 		margin-top: 150px;
 		height: 100%;
 		margin: 0;
-		background-repeat: no-repeat;
-		background-attachment: fixed;
-		background: red;
+		/*background-repeat: no-repeat;
+		background-attachment: fixed;*/
+		background: blue;
 		background: -webkit-linear-gradient(left top, #448ccb, #5674b9);
 		background: -o-linear-gradient(bottom right, #448ccb, #5674b9);
     		background: -moz-linear-gradient(bottom right, #448ccb, #5674b9);
