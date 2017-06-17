@@ -19,11 +19,11 @@ body {
 		margin: 0;
 		/*background-repeat: no-repeat;
 		background-attachment: fixed;*/
-		background: blue;
-		background: -webkit-linear-gradient(left top, #448ccb, #5674b9);
+		background: #5674b9;
+		/*background: -webkit-linear-gradient(left top, #448ccb, #5674b9);
 		background: -o-linear-gradient(bottom right, #448ccb, #5674b9);
     		background: -moz-linear-gradient(bottom right, #448ccb, #5674b9);
-    		background: linear-gradient(to bottom right, #448ccb, #5674b9);
+    		background: linear-gradient(to bottom right, #448ccb, #5674b9);*/
 	}
 
 #all {
