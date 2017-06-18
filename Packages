@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
 Filename: ./debs/com.mtac.freya_1.1.1_iphoneos-arm.deb
 Size: 12820146
-MD5sum: 3d6a756ad520f7b1ca3affd0ce9a3f02
-SHA1: 17d195cb93222613cf693087e440bc4023884b15
-SHA256: f0be36d36003c632f613b8fc815423ba24046e5de82c9cf56b5cd742ad807714
+MD5sum: 395a5913a731b16510f65e74523beaac
+SHA1: 22d3bf51fcae75840a807f0f526ca12771c50089
+SHA256: 269822321767a92623296267565af5190ad9f2bcdae7cfd910d075dcae5a160f
 Section: Themes
 Description: Freya, an appealing theme for Anemone on iOS
 Author: MTAC <mtactheming@gmail.com>
@@ -18,9 +18,9 @@ Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
 Filename: ./debs/com.mtac.ios11system_1.1.0_iphoneos-arm.deb
 Size: 11992
-MD5sum: 0e08882f61cbdded6362e25e7217a77c
-SHA1: 5b590d0229b9de4add50041bafebb32266cb3522
-SHA256: 4470732c08e5fe7d10540c72ca995d2d4cd2daee5d360ab2b8e8d8b6a4dbe123
+MD5sum: 5072d9217fe7975aeabd09e14aecbf39
+SHA1: 61a47d7e50aab8f397ed1efc877f51958c72ff7c
+SHA256: 6c708009da4a60014990b4ac420e24a47650796bdff8cb0c3a02e48e25623edc
 Section: Themes
 Description: An Anemone theme to add iOS 11's new system icons to iOS 10 and below
 Author: MTAC <mtactheming@gmail.com>
@@ -32,11 +32,27 @@ Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
 Filename: ./debs/com.mtac.mantra_1.1.1_iphoneos-arm.deb
 Size: 1346688
-MD5sum: 68530ce8d4941a7bd2b0c48016d0cbf2
-SHA1: 7451803d069e6339dfe1e9fa6ebdc865b625af60
-SHA256: 6c2e1888b5834b55f8711fc56614873bb285765a96483c77e6c92d5bdc579f01
+MD5sum: e416af0b4ae6de9474e637852a47b056
+SHA1: a9261b96a981034c9eaa68499ec001c535f3579a
+SHA256: 719528e1b8ee79dc9eabb4f5a696b4cab17e0b937ea81ad9b09b3cc14e15270d
 Section: Themes
 Description: Mantra, a simple theme
 Author: MTAC <mtactheming@gmail.com>
 Name: Mantra theme for iOS Devices
+
+Package: com.nathanaccidentally.dock
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: nathanaccidentally
+Installed-Size: 260
+Depends: mobilesubstrate
+Filename: ./debs/com.nathanaccidentally.dock_0.0.2-1+debug_iphoneos-arm.deb
+Size: 29878
+MD5sum: b66dba1119809b930a734e2daa5b4b50
+SHA1: 9a9754847762cd53e6cea896b18d73d580bf0a20
+SHA256: 56413376fafd833258d7f6012e24f81d49ab5f93dad2e3569ae00d930e626179
+Section: Tweaks
+Description: The iOS 11 dock on iOS 10.
+Author: nathanaccidentally
+Name: Dock
 

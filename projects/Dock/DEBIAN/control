@@ -1,0 +1,10 @@
+Package: com.nathanaccidentally.dock
+Name: Dock
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: The iOS 11 dock on iOS 10.
+Maintainer: nathanaccidentally
+Author: nathanaccidentally
+Section: Tweaks
+Version: 0.0.2-1+debug
+Installed-Size: 260
