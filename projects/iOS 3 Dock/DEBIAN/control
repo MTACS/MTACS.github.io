@@ -1,7 +1,10 @@
 Package: com.mtac.iOS3Dock
-Name: iOS 3 Dock Theme
-Version: 0.2
+Name: iOS 3 Dock for modern devices
+Version: 1.1.2
 Architecture: iphoneos-arm
-Description: A recreation of the dock used up to iOS 3. Requires Anemone or old version of ClassicDock without the Anemone dependency
-Author: MTAC
+Description: iOS 3 Dock for modern devices
+Homepage:
+Depiction:
+Maintainer: MTAC <mtactheming@gmail.com>
+Author: MTAC <mtactheming@gmail.com>
 Section: Themes
