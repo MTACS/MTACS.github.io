@@ -32,4 +32,5 @@ body {
 .img-rounded {
 	width: 300px;
 	height: 300px;
+	border-radius: 50%;
 }
