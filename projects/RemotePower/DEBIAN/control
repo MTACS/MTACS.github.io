@@ -1,0 +1,10 @@
+Package: com.mtac.remotepower
+Name: RemotePower
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Control your iPhone from your Apple Watch
+Homepage:
+Depiction:
+Maintainer: MTAC <mtactheming@gmail.com>
+Author: MTAC <mtactheming@gmail.com>
+Section: Utilities
