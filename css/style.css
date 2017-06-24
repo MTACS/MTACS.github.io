@@ -29,6 +29,7 @@ body {
 	
 }
 
-.footer {
-	margin-bottom: 3cm;
+.img-rounded {
+	width: 300px;
+	height: 300px;
 }
