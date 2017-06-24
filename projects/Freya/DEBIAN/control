@@ -1,6 +1,6 @@
 Package: com.mtac.freya
-Name: Freya theme for iOS Devices
-Version: 1.1.1
+Name: Freya
+Version: 1.1.2
 Architecture: iphoneos-arm
 Description: Freya, an appealing theme for Anemone on iOS
 Homepage:

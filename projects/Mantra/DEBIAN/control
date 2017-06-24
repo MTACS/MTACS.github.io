@@ -1,10 +1,10 @@
 Package: com.mtac.mantra
-Name: Mantra theme for iOS Devices
-Version: 1.1.1
+Name: Mantra
+Version: 1.1.2
 Architecture: iphoneos-arm
 Description: Mantra, a simple theme
 Homepage:
-Depiction:
+Depiction: http://mtacs.github.io
 Maintainer: MTAC <mtactheming@gmail.com>
 Author: MTAC <mtactheming@gmail.com>
 Section: Themes

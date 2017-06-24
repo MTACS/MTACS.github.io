@@ -1,16 +1,16 @@
 Package: com.mtac.freya
-Version: 1.1.1
+Version: 1.1.2
 Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
-Filename: ./debs/com.mtac.freya_1.1.1_iphoneos-arm.deb
-Size: 12820156
-MD5sum: dce0523d34c00a742ca2241a4320cc33
-SHA1: db37930f3d4551d5baeff7e94910c4fee864673c
-SHA256: 34076d0e0322eacc97015b4dcc82ccec3da6adc33c13f8b8d67001d94c9a732e
+Filename: ./debs/com.mtac.freya_1.1.2_iphoneos-arm.deb
+Size: 12820144
+MD5sum: c09b40c40e0668c9341c7f724458b50e
+SHA1: 8fa87343093742b11848b5733d29137920e7ff08
+SHA256: 26052cc78c66474f6a3b20411356930810bbfdcb16eba81791bd26ee82704630
 Section: Themes
 Description: Freya, an appealing theme for Anemone on iOS
 Author: MTAC <mtactheming@gmail.com>
-Name: Freya theme for iOS Devices
+Name: Freya
 
 Package: com.mtac.iOS11System
 Version: 1.1.0
@@ -18,41 +18,42 @@ Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
 Filename: ./debs/com.mtac.ios11system_1.1.0_iphoneos-arm.deb
 Size: 11992
-MD5sum: b41f6a568f7648397fc9ec63cf9118a0
-SHA1: ca751ddbfe3fd64b7f7d6851756b44979f8b8751
-SHA256: f7f4d73a8317386a6121e02d5fb4dc6b2f22edee29ae7789ca64d83541c7948e
+MD5sum: 19d357b7f52ac84c3a6ba79bcbeb357c
+SHA1: 9a15689efd2d8ee41cdb5e6398554746c438afda
+SHA256: 98ac8afdaf8052357ee2791e9e6300a796890b47bab1ce72ae06d4e9db2fceb1
 Section: Themes
 Description: An Anemone theme to add iOS 11's new system icons to iOS 10 and below
 Author: MTAC <mtactheming@gmail.com>
 Name: iOS 11 System Icons
 
 Package: com.mtac.iOS3Dock
-Version: 1.1.2
+Version: 1.1.3
 Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
-Filename: ./debs/com.mtac.ios3dock_1.1.2_iphoneos-arm.deb
-Size: 417258
-MD5sum: e4b34e92fd7e42c0433a12615a3b6336
-SHA1: ea9d85812ecbe6896c7168e7f48b3389da9e2016
-SHA256: 58d66e12d4d8519321f4f292f2c9b1fe11f908781a0e92e3ae40418394db1a97
+Filename: ./debs/com.mtac.ios3dock_1.1.3_iphoneos-arm.deb
+Size: 417260
+MD5sum: 873f4a1aff5566a44df96113c979cf3d
+SHA1: c37c69fc0394d640df68f63cde3c9fde6f00fd0b
+SHA256: ba8b3ff3f6715e4c0c20b6923d6bf24d5a3337c5cc619bddf03fa3fead3e4fd4
 Section: Themes
 Description: iOS 3 Dock for modern devices
 Author: MTAC <mtactheming@gmail.com>
-Name: iOS 3 Dock for modern devices
+Name: iOS 3 Dock
 
 Package: com.mtac.mantra
-Version: 1.1.1
+Version: 1.1.2
 Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
-Filename: ./debs/com.mtac.mantra_1.1.1_iphoneos-arm.deb
-Size: 1346688
-MD5sum: 974c640c022f60fc5866338df07fcb47
-SHA1: 522099116704188d1587f035dab3394a7ba7abd5
-SHA256: a1e0aaefa1a90bfd7fb1c63a09fac544f7e4ffc77f425b668a3d3964ae157bc7
+Filename: ./debs/com.mtac.mantra_1.1.2_iphoneos-arm.deb
+Size: 1346694
+MD5sum: 58f023526bb8f35a8b85b9f16639c605
+SHA1: f2f25385367d2b3fa39ff97653c98d5e6b654a54
+SHA256: dd190b531908185f1afb7ed0d642839ac253cd612d8fbbb05b6b7ddd5feef935
 Section: Themes
 Description: Mantra, a simple theme
 Author: MTAC <mtactheming@gmail.com>
-Name: Mantra theme for iOS Devices
+Depiction: http://mtacs.github.io
+Name: Mantra
 
 Package: com.nathanaccidentally.dock
 Version: 0.0.2-1+debug
@@ -62,9 +63,9 @@ Installed-Size: 260
 Depends: mobilesubstrate
 Filename: ./debs/com.nathanaccidentally.dock_0.0.2-1+debug_iphoneos-arm.deb
 Size: 29898
-MD5sum: 020c891e7238cef8bf6b4e9d6ed280b3
-SHA1: e1c88a995d917cb030a084d36c81cbe03098d9e7
-SHA256: 98f4bc32b0e24728810fba704962bfab78b372f02339e170fc2984efbe7a243a
+MD5sum: 81edf19049a41ad5baf00231ef6a8f4a
+SHA1: 99133c55a7c66247e07b805c401101f3afc060b5
+SHA256: 3e33e5518da7f3989b0c417dca4dea25c5ef0b457bc54e570044bcfb7405ff14
 Section: Tweaks
 Description: The iOS 11 dock on iOS 10.
 Author: nathanaccidentally
