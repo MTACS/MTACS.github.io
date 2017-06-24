@@ -4,7 +4,7 @@ Version: 1.1.0
 Architecture: iphoneos-arm
 Description: An Anemone theme to add iOS 11's new system icons to iOS 10 and below
 Homepage:
-Depiction:
+Depiction: https://mtacs.github.io/pages/Repo.html
 Maintainer: MTAC <mtactheming@gmail.com>
 Author: MTAC <mtactheming@gmail.com>
 Section: Themes

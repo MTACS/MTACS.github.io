@@ -3,13 +3,14 @@ Version: 1.1.2
 Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
 Filename: ./debs/com.mtac.freya_1.1.2_iphoneos-arm.deb
-Size: 12820146
-MD5sum: fb88843f405c8406234ba73653839e22
-SHA1: 90893ec4e9d4f6e146c242307bbc29b74dc71d1d
-SHA256: 362053c4a390a52819b71286e291838bf7ade848c2d63ea3b8253fd34bea5fc2
+Size: 12820162
+MD5sum: 6a58777542303aa266a6cb3ea5d7fed2
+SHA1: ae25f67ae08f9b6e44fc3af360e9a4fdfe42522b
+SHA256: 0e899af9740867ab1bbecd672fb70bc3e62fabb0c5e35f15b18989471e8ccdd3
 Section: Themes
 Description: Freya, an appealing theme for Anemone on iOS
 Author: MTAC <mtactheming@gmail.com>
+Depiction: https://mtacs.github.io/pages/Repo.html
 Name: Freya
 
 Package: com.mtac.iOS11System
@@ -17,13 +18,14 @@ Version: 1.1.0
 Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
 Filename: ./debs/com.mtac.ios11system_1.1.0_iphoneos-arm.deb
-Size: 11992
-MD5sum: 60b49fe01669e2546a95bc779010ad0b
-SHA1: 6b0bd574ce444020aa27ca1cc7f9ff4066c69b6d
-SHA256: 62b7eb1573b55147e1cd8498ef74167924f0d55c43b0066ac383379bf3d0b4ed
+Size: 12024
+MD5sum: 23afb60dfe5f019a37ae1698f2554de2
+SHA1: 31dff4af6d97cb7acaeb64613fd16a332a196b6a
+SHA256: 5149262d28f1dee16173ec072254631ed1a0e1ece17288954aecbb17874b58ea
 Section: Themes
 Description: An Anemone theme to add iOS 11's new system icons to iOS 10 and below
 Author: MTAC <mtactheming@gmail.com>
+Depiction: https://mtacs.github.io/pages/Repo.html
 Name: iOS 11 System Icons
 
 Package: com.mtac.iOS3Dock
@@ -31,13 +33,14 @@ Version: 1.1.3
 Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
 Filename: ./debs/com.mtac.ios3dock_1.1.3_iphoneos-arm.deb
-Size: 417260
-MD5sum: 9f473a17178a2d92fab5e8fa41be4447
-SHA1: 0aa4e02cdaf1b896956a91670dcbb3434c4358b6
-SHA256: aeafa3627eb1cb9736529f6bf2b91c01713bbe394619a4ab76158c9597d2aa65
+Size: 417286
+MD5sum: 192a4ba4416b5b798cb3afbe9c27524e
+SHA1: 6d4ac0c9658d05fe560532a4e3f230e7e6d62211
+SHA256: 06ebc0915141aa07e7877ff1f71725b72f40635bc7482c0eba1d28e0069da4a3
 Section: Themes
 Description: iOS 3 Dock for modern devices
 Author: MTAC <mtactheming@gmail.com>
+Depiction: https://mtacs.github.io/pages/Repo.html
 Name: iOS 3 Dock
 
 Package: com.mtac.mantra
@@ -45,14 +48,14 @@ Version: 1.1.2
 Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
 Filename: ./debs/com.mtac.mantra_1.1.2_iphoneos-arm.deb
-Size: 1346694
-MD5sum: 05004e22a98338cd73bd216ba5d2e9b5
-SHA1: 1ae2ee82af1fcbe8bdf7d156f635f1e9cd21a66c
-SHA256: 201691f541ab09d8e8a0c93c4de457bf53e0fffe7c4a5b433361b6e120b3c372
+Size: 1346702
+MD5sum: 52bca45a09a1d965a6e6617ee9f42ee6
+SHA1: 0715852a6dc05756f0c4d28e5d2b29433f80acd5
+SHA256: e28bee9616750c5bfcdff185762a01ec4f09e1241388fe88102ddc94ce890acd
 Section: Themes
 Description: Mantra, a simple theme
 Author: MTAC <mtactheming@gmail.com>
-Depiction: http://mtacs.github.io
+Depiction: https://mtacs.github.io/pages/Repo.html
 Name: Mantra
 
 Package: com.mtac.remotepower
@@ -60,13 +63,14 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
 Filename: ./debs/com.mtac.remotepower_1.0_iphoneos-arm.deb
-Size: 5613620
-MD5sum: febd3b56a939aa872e7803d8e6e6c1c5
-SHA1: 4d2f7725310302e5ee97f7ecc300e200b2e79cd4
-SHA256: 7a63fb6f477cbce2c8b74c66289e9e1196aaaf0dc3ebfc8eb2e5f529651b504d
+Size: 5613652
+MD5sum: bdfc88f7536b75b7e2e2c7c8dcdf777d
+SHA1: 9ca8b7195249bbfcd91ae21f96b7673fda1f5794
+SHA256: f0a3cf251cd58dbbbaac08bb11f1f36d05f2074b8f02045e94df5174c893e319
 Section: Utilities
 Description: Control your iPhone from your Apple Watch
 Author: MTAC <mtactheming@gmail.com>
+Depiction: https://mtacs.github.io/pages/Repo.html
 Name: RemotePower
 
 Package: com.nathanaccidentally.dock
@@ -76,12 +80,13 @@ Maintainer: nathanaccidentally
 Installed-Size: 260
 Depends: mobilesubstrate
 Filename: ./debs/com.nathanaccidentally.dock_0.0.2-1+debug_iphoneos-arm.deb
-Size: 29898
-MD5sum: 86d1b2775db5fc1b22591fa2099a16d0
-SHA1: e8fc633d80ac57b15022479c7fc814f0f665bf53
-SHA256: 9bfd9cb2ae7982491100d20c5f7454fa1156e66af44fafe7fd9f2f70a0176c31
+Size: 29942
+MD5sum: 90f530231bb75e620a8456b477feee03
+SHA1: 34e799db002a3fbd25857ee615837860112c13eb
+SHA256: eca1be014117181a8ba8210a866bfc320d7a1552ea99532c4a0e0f3f437726fa
 Section: Tweaks
 Description: The iOS 11 dock on iOS 10.
 Author: nathanaccidentally
+Depiction: https://mtacs.github.io/pages/Repo.html
 Name: Dock
 

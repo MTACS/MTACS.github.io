@@ -3,6 +3,7 @@ Name: Dock
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: The iOS 11 dock on iOS 10.
+Depiction: https://mtacs.github.io/pages/Repo.html
 Maintainer: nathanaccidentally
 Author: nathanaccidentally
 Section: Tweaks

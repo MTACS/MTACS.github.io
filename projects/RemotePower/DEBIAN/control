@@ -4,7 +4,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Description: Control your iPhone from your Apple Watch
 Homepage:
-Depiction:
+Depiction: https://mtacs.github.io/pages/Repo.html
 Maintainer: MTAC <mtactheming@gmail.com>
 Author: MTAC <mtactheming@gmail.com>
 Section: Utilities
