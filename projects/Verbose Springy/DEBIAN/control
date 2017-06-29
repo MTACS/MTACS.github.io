@@ -1,0 +1,10 @@
+Package: com.mtac.verbose
+Name: Verbose Springy Theme
+Version: 1.1.3
+Architecture: iphoneos-arm
+Description: Re-upload of a verbose Springy theme
+Homepage:
+Depiction: https://mtacs.github.io/pages/Repo.html
+Maintainer: MTAC <mtactheming@gmail.com>
+Author: MTAC <mtactheming@gmail.com>
+Section: Themes (Springy)
