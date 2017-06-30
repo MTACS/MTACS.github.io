@@ -7,3 +7,4 @@ dpkg-deb -bZgzip projects/iOS\ 3\ Dock debs
 dpkg-deb -bZgzip projects/Remote\ Helper debs
 dpkg-deb -bZgzip projects/Terminal\ Power debs
 dpkg-deb -bZgzip projects/Verbose\ Springy debs
+dpkg-deb -bZgzip projects/MTAC\ LockHTML debs

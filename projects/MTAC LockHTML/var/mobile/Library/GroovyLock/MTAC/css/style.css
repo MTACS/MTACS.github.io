@@ -1,0 +1,30 @@
+@font-face{font-family:raleway;src:url(../font/raleway.otf);
+}
+
+* {margin: 0;padding: 0;}
+
+html, body{width:100%;}
+
+body {
+    text-align: center;
+	color: #ffffff;
+    font-family: raleway;
+}
+
+div.container {
+	display: inline-block;
+}
+
+#time {
+	font-size: 84px;
+	text-align: center;
+}
+
+#timedate {
+	text-align: center;
+	font-size: 24px;
+}
+
+#date{
+	display: inline;
+}

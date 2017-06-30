@@ -1,0 +1,12 @@
+Package: com.mtac.mtaclockhtml
+Name: MTAC LockHTML
+Version: 1.0
+Architecture: iphoneos-arm
+Author: MTAC
+Depends:
+Depiction: https://mtacs.github.io/pages/Repo.html
+Priority: extra
+Section: Themes (SpringBoard)
+Description: My personal LockHTML Theme
+Homepage:
+Maintainer: MTAC
