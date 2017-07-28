@@ -1,0 +1,9 @@
+Package: com.mtac.nolsbattery
+Name: NoLSBattery
+Depends: mobilesubstrate
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: Stupid simple tweak to remove charging battery when plugged in on lockscreen
+Maintainer: MTAC
+Author: MTAC
+Section: Tweaks
