@@ -9,3 +9,4 @@ dpkg-deb -bZgzip projects/Terminal\ Power debs
 dpkg-deb -bZgzip projects/Verbose\ Springy debs
 dpkg-deb -bZgzip projects/MTAC\ LockHTML debs
 dpkg-deb -bZgzip projects/No\ LS\ Battery debs
+dpkg-deb -bZgzip projects/Runtime\ Browser debs
