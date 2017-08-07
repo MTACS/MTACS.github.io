@@ -1,0 +1,10 @@
+Package: com.mtac.phoenixfix
+Name: Phoenix Fix
+Architecture: iphoneos-arm
+Description: Fix sed on Phoenix iOS 9.3.5 jailbreak
+Homepage:
+Depiction: https://mtacs.github.io/pages/Repo.html
+Maintainer: MTAC <mtactheming@gmail.com>
+Author: MTAC <mtactheming@gmail.com>
+Section: Utilities
+Version: 0.1
