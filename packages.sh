@@ -10,3 +10,4 @@ dpkg-deb -bZgzip projects/MTAC\ LockHTML debs
 dpkg-deb -bZgzip projects/No\ LS\ Battery debs
 dpkg-deb -bZgzip projects/Runtime\ Browser debs
 dpkg-deb -bZgzip projects/11\ Beta debs
+dpkg-deb -bZgzip projects/Rounded\ Status debs

@@ -1,0 +1,10 @@
+Package: com.mtac.roundedstatus
+Name: Rounded Status theme originally by Joel49
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Rounded Status
+Homepage:
+Depiction: https://mtacs.github.io/pages/Repo.html
+Maintainer: MTAC <mtactheming@gmail.com>
+Author: MTAC <mtactheming@gmail.com>
+Section: Themes
