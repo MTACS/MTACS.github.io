@@ -3,7 +3,7 @@ Name: RemotePowerPreferences
 Architecture: iphoneos-arm
 Description: Test Preference Bundle for RemotePower
 Homepage:
-Depiction: https://mtacs.github.io/pages/Repo.html
+Depiction: https://mtacs.github.io/description.html?id=com.mtac.remotepowerprefs
 Maintainer: MTAC <mtactheming@gmail.com>
 Author: MTAC <mtactheming@gmail.com>
 Section: Utilities

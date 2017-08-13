@@ -4,7 +4,7 @@ Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
 Description: Objective-C runtime browser by Nicolas Seriot
-Depiction: https://mtacs.github.io/pages/Repo.html?id=com.mtac.runtimebrowser
+Depiction: https://mtacs.github.io/description.html?id=com.mtac.runtimebrowser
 Maintainer: MTAC
 Author: Nicolas Seriot
 Section: Tweaks

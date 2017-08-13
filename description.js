@@ -1,5 +1,5 @@
 function loadPackageInfo() {
-	var urlSelfParts = window.location.href.split('/pages/Repo.html?id=');
+	var urlSelfParts = window.location.href.split('description.html?id=');
 	var form_url = urlSelfParts[0]+"packageInfo/"+urlSelfParts[1];
 	$.ajax({
 		url: form_url,
