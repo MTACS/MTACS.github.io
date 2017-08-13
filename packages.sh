@@ -12,3 +12,4 @@ dpkg-deb -bZgzip projects/Runtime\ Browser debs
 dpkg-deb -bZgzip projects/11\ Beta debs
 dpkg-deb -bZgzip projects/Rounded\ Status debs
 dpkg-deb -bZgzip projects/phoenixfix debs
+dpkg-deb -bZgzip projects/SleekSheets debs
