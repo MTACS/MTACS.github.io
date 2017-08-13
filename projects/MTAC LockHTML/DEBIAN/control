@@ -4,7 +4,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Author: MTAC
 Depends:
-Depiction: https://mtacs.github.io/pages/Repo.html
+Depiction: https://mtacs.github.io/pages/Repo.html?id=com.mtac.mtaclockhtml
 Priority: extra
 Section: Themes (SpringBoard)
 Description: My personal LockHTML Theme
