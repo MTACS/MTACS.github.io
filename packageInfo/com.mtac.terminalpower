@@ -1,0 +1,8 @@
+{
+	"name": "Terminal Power",
+	"desc_short": "Safemode & Respring via one terminal command",
+	"desc_long": "Safemode & Respring via one terminal command",
+	"compatitle": "iOS 7, 8, 9, 10",
+	"changelog": "<strong>1.0</strong>",
+	"screenshot": null,
+}
