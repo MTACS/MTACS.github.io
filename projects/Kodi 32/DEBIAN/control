@@ -1,0 +1,14 @@
+Package: org.xbmc.kodi-ios32
+Name: Kodi-iOS
+Depends: firmware (>= 5.1)
+Priority: Extra
+Version: 17.3-0
+Architecture: iphoneos-arm
+Installed-Size: 136828
+Description: Kodi Entertainment Center for iOS (32 bit)
+Homepage: http://kodi.tv/
+Maintainer: MTAC
+Depiction: https://mtacs.github.io/description.html?id=com.xbmc.kodi32
+Author: Team-Kodi
+Section: Multimedia
+Icon: file:///Applications/Kodi.app/AppIcon57x57.png

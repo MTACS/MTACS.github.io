@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+  <category label="30000">
+    <setting id="hostname" type="text" label="30001" default="" />
+    <setting id="http_port" type="number" option="int" label="30002" default="80" />
+    <setting id="https_port" type="number" option="int" label="30005" default="" />
+    <setting id="upnp_port" type="number" option="int" label="30003" default="55555" />
+    <setting id="connection_timeout" type="number" option="int" label="30004" default="3" />
+  </category>
+
+  <category label="30050">
+    <setting id="external_hostname" type="text" label="30001" default="" />
+    <setting id="external_http_port" type="number" option="int" label="30002" default="19999" />
+    <setting id="external_https_port" type="number" option="int" label="30005" default="" />
+    <setting id="external_upnp_port" type="number" option="int" label="30003" default="55555" />
+    <setting id="external_connection_timeout" type="number" option="int" label="30004" default="10" />
+  </category>
+
+  <category label="30100">
+    <setting id="use_external_xmltv" type="bool" label="30101" default="false" />
+    <setting id="external_xmltv_path" type="file" label="30102" default="" enable="eq(-1,true)" />
+    <setting id="prefer_external_xmltv" type="bool" label="30103" default="false" enable="eq(-2,true)" />
+    <setting id="use_external_xmltv_icons" type="bool" label="30104" default="false" enable="eq(-3,true)" />
+    <setting id="set_channelid_using_order" type="enum" label="30105" lvalues="30108|30109" default="0"/>
+    <setting id="reminder_mins_before_prog" type="number" option="int" label="30114" default="0"/>
+  </category>
+  
+  <category label="30200">
+    <setting id="timeshift_enabled" type="bool" label="30201" default="false" />
+    <setting id="timeshift_path" type="folder" label="30202" default="special://userdata/addon_data/pvr.vbox" option="writeable" enable="eq(-1,true)" />
+  </category>
+</settings>

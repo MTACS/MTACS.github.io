@@ -1,0 +1,2 @@
+#!/bin/sh
+find /Applications/Kodi.app -delete

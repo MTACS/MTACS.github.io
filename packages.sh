@@ -13,4 +13,5 @@ dpkg-deb -bZgzip projects/11\ Beta debs
 dpkg-deb -bZgzip projects/Rounded\ Status debs
 dpkg-deb -bZgzip projects/phoenixfix debs
 dpkg-deb -bZgzip projects/SleekSheets debs
-dpkg-deb -bZgzip projects/Kodi debs
+dpkg-deb -bZgzip projects/Kodi\ 32 debs
+dpkg-deb -bZgzip projects/Kodi\ 64 debs

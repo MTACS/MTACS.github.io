@@ -1,0 +1,189 @@
+# Kodi Media Center language file
+# Addon Name: DVBViewer Client
+# Addon id: pvr.dvbviewer
+# Addon Provider: A600, Manuel Mausz
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: Polish (Poland) (http://www.transifex.com/projects/p/kodi-main/language/pl_PL/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl_PL\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgctxt "#30000"
+msgid "DVBViewer Recording Service IP Address"
+msgstr "Nazwa lub adres serwera"
+
+msgctxt "#30001"
+msgid "Webinterface Port"
+msgstr "Port interfejsu webowego"
+
+msgctxt "#30002"
+msgid "Username"
+msgstr "Użytkownik"
+
+msgctxt "#30003"
+msgid "Password"
+msgstr "Hasło"
+
+msgctxt "#30010"
+msgid "Use favourites instead of channel list"
+msgstr "Używaj ulubionych zamiast listy kanałów"
+
+msgctxt "#30011"
+msgid "Use local favourites file"
+msgstr "Używaj lokalnego pliku ulubionych"
+
+msgctxt "#30012"
+msgid "Select the favourites.xml file"
+msgstr "Wybierz plik favourites.xml"
+
+msgctxt "#30020"
+msgid "Enable Timeshift"
+msgstr "Aktywuj przesunięcie czasowe"
+
+msgctxt "#30021"
+msgid "Timeshift buffer path"
+msgstr "Folderu bufora przesunięcia czasowego"
+
+msgctxt "#30025"
+msgid "Off"
+msgstr "Nieaktywne"
+
+msgctxt "#30026"
+msgid "On playback"
+msgstr "Po rozpoczęciu odtwarzania"
+
+msgctxt "#30027"
+msgid "On pause"
+msgstr "Po wstrzymaniu odtwarzania"
+
+msgctxt "#30040"
+msgid "Enable low performance mode (disables logos & thumbnails)"
+msgstr "Używaj trybu niskiej wydajności (ukrywaj loga i miniatury)"
+
+msgctxt "#30050"
+msgid "Group recordings"
+msgstr "Grupuj nagrania "
+
+msgctxt "#30051"
+msgid "disabled"
+msgstr "Nieaktywne"
+
+msgctxt "#30052"
+msgid "by recording directory"
+msgstr "Po folderach"
+
+msgctxt "#30053"
+msgid "by recording date"
+msgstr "Po datach"
+
+msgctxt "#30054"
+msgid "by first letter"
+msgstr "Alfabetycznie"
+
+msgctxt "#30055"
+msgid "by tv channel"
+msgstr "Po kanałach"
+
+msgctxt "#30056"
+msgid "by series"
+msgstr "Po serialach"
+
+msgctxt "#30060"
+msgid "Put outline (e.g. subtitles) before plot"
+msgstr "Używaj zarysu (np. podtytuły) przed fabułą"
+
+msgctxt "#30061"
+msgid "Never"
+msgstr "Nigdy"
+
+msgctxt "#30062"
+msgid "In EPG only"
+msgstr "W przewodniku"
+
+msgctxt "#30063"
+msgid "In recordings only"
+msgstr "W nagraniach"
+
+msgctxt "#30064"
+msgid "Always"
+msgstr "Zawsze"
+
+msgctxt "#30070"
+msgid "Enable transcoding"
+msgstr "Aktywuj transkodowanie"
+
+msgctxt "#30071"
+msgid "Off"
+msgstr "Nieaktywne"
+
+msgctxt "#30072"
+msgid "TS"
+msgstr "Format TS"
+
+msgctxt "#30073"
+msgid "WebM"
+msgstr "Format WebM"
+
+msgctxt "#30074"
+msgid "FLV"
+msgstr "Format FLV"
+
+msgctxt "#30077"
+msgid "Transcoding URL parameters"
+msgstr "Parametry adresu URL transkodowania"
+
+msgctxt "#30100"
+msgid "General"
+msgstr "Ogólne"
+
+msgctxt "#30101"
+msgid "Advanced"
+msgstr "Zaawansowane"
+
+msgctxt "#30102"
+msgid "Recordings"
+msgstr "Nagrania"
+
+msgctxt "#30103"
+msgid "Live TV"
+msgstr "Telewizja"
+
+msgctxt "#30500"
+msgid "Unable to connect to the DVBViewer Recording Service"
+msgstr "Nieudane połączenie z usługą Recording Service"
+
+msgctxt "#30501"
+msgid "DVBViewer Recording Service version %s or higher required"
+msgstr "Wymagana jest usługa Recording Servica w wersji %s lub nowszej"
+
+msgctxt "#30502"
+msgid "Unable to parse channel list"
+msgstr "Nieudane przetwarzanie listy kanałów"
+
+msgctxt "#30503"
+msgid "Check Kodi log for more information"
+msgstr "Sprawdź szczegóły w pliku dziennika diagnostycznego"
+
+msgctxt "#30504"
+msgid "Unable to open local favourites.xml"
+msgstr "Nie można otworzyć pliku favourites.xml"
+
+msgctxt "#30505"
+msgid "Unable to parse favourites list"
+msgstr "Nieudane przetwarzanie listy ulubionych"
+
+msgctxt "#30506"
+msgid "Unable to parse timer list"
+msgstr "Nieudane przetwarzanie harmonogramu nagrań"
+
+msgctxt "#30507"
+msgid "Please reset the EPG database and restart Kodi afterwards"
+msgstr "Należy wyczyścić bazę przewodnika, a następnie uruchomić Kodi ponownie"

@@ -1,0 +1,3 @@
+<settings>
+  <setting id="soundfont" label="30000" type="file" mask=".sf2|.cfg"/>
+</settings>
