@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+  <!-- general -->
+  <category label="30100">
+    <setting label="30000" id="host"    type="text"   default="127.0.0.1" />
+    <setting label="30001" id="webport" type="number" default="8089" option="int" />
+    <setting label="30002" id="user"    type="text"   default="" />
+    <setting label="30003" id="pass"    type="text"   default="" option="hidden" />
+  </category>
+
+  <!-- live tv -->
+  <category label="30103">
+    <setting label="30010" id="usefavourites"     type="bool" default="false" />
+    <setting label="30011" id="usefavouritesfile" type="bool" default="false" enable="eq(-1,true)" />
+    <setting label="30012" id="favouritesfile"    type="file" default="" enable="eq(-1,true)" />
+
+    <setting id="sep1" type="sep" />
+    <setting label="30020" id="timeshift"     type="enum"   lvalues="30025|30026|30027" default="0" />
+    <setting label="30021" id="timeshiftpath" type="folder" default="" option="writeable" enable="gt(-1,0)" />
+  </category>
+
+  <!-- recordings -->
+  <category label="30102">
+    <setting label="30050" id="grouprecordings" type="enum" lvalues="30051|30052|30053|30054|30055|30056" default="0" />
+  </category>
+
+  <!-- advanced -->
+  <category label="30101">
+    <setting label="30060" id="prependoutline" type="enum" lvalues="30061|30062|30063|30064" default="1" />
+    <setting label="30040" id="lowperformance" type="bool" default="false" />
+
+    <setting id="sep2" type="sep" />
+    <setting label="30070" id="transcoding"       type="enum" lvalues="30071|30072|30073|30074" default="0" />
+    <setting label="30077" id="transcodingparams" type="text" default="" enable="gt(-1,0)" />
+  </category>
+</settings>

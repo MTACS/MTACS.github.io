@@ -1,0 +1,8 @@
+{
+	"name": "Kodi",
+	"desc_short": "Kodi",
+	"desc_long": "Kodi",
+	"compatitle": "iOS 7, 8, 9, 10",
+	"changelog": "<strong>17.3</strong><br>Hopefully fixed errors with 17.3 on 64 bit architecture<br>",
+	"screenshot": null,
+}

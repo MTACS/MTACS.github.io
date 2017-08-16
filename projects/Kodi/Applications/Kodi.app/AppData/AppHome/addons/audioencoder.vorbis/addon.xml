@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="audioencoder.vorbis"
+  version="1.1.0"
+  name="Vorbis Audio Encoder"
+  provider-name="spiff">
+  <requires>
+    <c-pluff version="0.1"/>
+    <import addon="xbmc.audioencoder" version="1.0.0"/>
+  </requires>
+  <extension
+    point="xbmc.audioencoder"
+    extension=".ogg"
+    library_ios="audioencoder.vorbis.1.1.0.dylib"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Vorbis Audio Encoder</summary>
+    <description lang="en">Vorbis Audio Encoder</description>
+    <platform>ios</platform>
+  </extension>
+</addon>

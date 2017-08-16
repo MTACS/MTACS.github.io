@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<buttonmap>
+    <device name="Keyboard" provider="application" index="2">
+        <controller id="game.controller.snes">
+            <feature name="a" button="69" />
+            <feature name="b" button="87" />
+            <feature name="down" button="70" />
+            <feature name="left" button="68" />
+            <feature name="leftbumper" button="81" />
+            <feature name="right" button="71" />
+            <feature name="rightbumper" button="91" />
+            <feature name="select" button="93" />
+            <feature name="start" button="54" />
+            <feature name="up" button="82" />
+            <feature name="x" button="83" />
+            <feature name="y" button="65" />
+        </controller>
+    </device>
+</buttonmap>
