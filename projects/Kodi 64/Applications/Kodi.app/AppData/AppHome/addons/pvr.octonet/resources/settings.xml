@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<settings>
-	<!-- Octonet Server Address -->
-	<setting id="octonetAddress" type="text" label="30000" default="" />
-</settings>

@@ -1,0 +1,10 @@
+Package: com.mtac.substatealert
+Name: Substrate Alert
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Super simple tweak to let me know when substrate loads, for setups with no visual changes
+Maintainer: MTAC
+Author: MTAC
+Section: Tweaks
+Version: 0.0.2-1+debug
+Installed-Size: 120

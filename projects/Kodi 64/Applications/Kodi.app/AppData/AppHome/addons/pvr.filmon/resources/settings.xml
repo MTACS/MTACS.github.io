@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<settings>
-    <setting id="username" type="text" label="30000" default="" />
-    <setting id="password" type="text" label="30001" option="hidden" default="" />
-    <setting id="preferhd" type="bool" label="30002" default="false" />
-</settings>
