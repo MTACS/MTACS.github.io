@@ -3,6 +3,6 @@
 	"desc_short": "iOS 11 Beta icons",
 	"desc_long": "11 Beta, iOS 11 look for your iDevice",
 	"compatitle": "iOS 7, 8, 9, 10",
-	"changelog": "<strong>0.1.6</strong><br>Added new icons from iOS 11 beta 6<br>",
+	"changelog": "<strong>0.1.7a</strong><br>Added settings icons, updated signal bars, and other UIKit elements<br>",
 	"screenshot": null,
 }
