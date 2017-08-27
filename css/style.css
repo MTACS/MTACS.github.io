@@ -19,11 +19,12 @@ body {
 		background-attachment: fixed;
 		background-image: url("/images/background.png");
 		background-color: #838d91;
-		
+		background-size: cover;
+
 	}
 
 #all {
-	
+
 }
 
 .img-rounded {
