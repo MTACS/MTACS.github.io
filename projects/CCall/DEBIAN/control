@@ -1,0 +1,9 @@
+Package: com.mtac.ccall
+Name: CCCall
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Make a call from your CC!
+Maintainer: MTAC
+Author: MTAC
+Section: Tweaks

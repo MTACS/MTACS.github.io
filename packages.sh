@@ -14,3 +14,4 @@ dpkg-deb -bZgzip projects/Rounded\ Status debs
 dpkg-deb -bZgzip projects/phoenixfix debs
 dpkg-deb -bZgzip projects/SleekSheets debs
 dpkg-deb -bZgzip projects/substratealert debs
+dpkg-deb -bZgzip projects/CCall debs
