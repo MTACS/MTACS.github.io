@@ -1,0 +1,10 @@
+Package: com.mtac.jbspringy
+Name: Phoenix-like Springy Theme
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Replicates Phoenix jailbreak's running screen
+Homepage:
+Depiction: https://mtacs.github.io/description.html?id=com.mtac.jbspringy
+Maintainer: MTAC <mtactheming@gmail.com>
+Author: MTAC <mtactheming@gmail.com>
+Section: Themes (Springy)
