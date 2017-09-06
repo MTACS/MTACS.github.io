@@ -2,7 +2,7 @@
 	"name": "11 Beta",
 	"desc_short": "iOS 11 Beta icons",
 	"desc_long": "11 Beta, iOS 11 look for your iDevice",
-	"compatitle": "iOS 7, 8, 9, 10",
-	"changelog": "<strong>0.1.7a</strong><br>Added settings icons, updated signal bars, and other UIKit elements<br>",
+	"compatitle": "iOS 8, 9, 10",
+	"changelog": "<strong>0.1.10a</strong><br>Added battery theme, use Alkaline to theme<br>",
 	"screenshot": "<div style='text-align:center;'><a href='https://i.imgur.com/jQENAPl.png' target='_blank'><img width=95% src='https://i.imgur.com/jQENAPl.png'/></a><br></div>",
 }
