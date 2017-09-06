@@ -15,4 +15,4 @@ dpkg-deb -bZgzip projects/phoenixfix debs
 dpkg-deb -bZgzip projects/SleekSheets debs
 dpkg-deb -bZgzip projects/substratealert debs
 dpkg-deb -bZgzip projects/CCall debs
-dpkg-deb -bZgzip projects/Jailbreak\ Springy
+dpkg-deb -bZgzip projects/Jailbreak\ Springy debs
