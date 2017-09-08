@@ -1,0 +1,9 @@
+Package: com.mtac.debugserver10
+Depends: mobilesubstrate, firmware (>= 10.0)
+Name: debugserver(iOS 10)
+Version: 370.0.42
+Architecture: iphoneos-arm
+Description: Apple's lldb debugging server
+Maintainer: MTAC
+Author: MTAC
+Section: System
