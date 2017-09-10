@@ -1,0 +1,8 @@
+{
+	"name": "NoIGAccountLimit",
+	"desc_short": "Allow more than 5 accounts on Instagram",
+	"desc_long": "Allow more than 5 accounts on Instagram",
+	"compatitle": "iOS 9, 10",
+	"changelog": "<strong>1.0</strong>",
+	"screenshot": null,
+}
