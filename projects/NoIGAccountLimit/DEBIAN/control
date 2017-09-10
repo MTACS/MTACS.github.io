@@ -1,0 +1,10 @@
+Package: com.mtac.noigacclimit
+Name: NoIGAccountLimit
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Allow more than 5 accounts on Instagram
+Maintainer: MTAC
+Author: MTAC
+Section: Tweaks
+Version: 0.0.1-1+debug
+Installed-Size: 120
