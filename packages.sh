@@ -20,3 +20,4 @@ dpkg-deb -bZgzip projects/debugserver\ iOS\ 10 debs
 dpkg-deb -bZgzip projects/debugserver\ iOS\ 9 debs
 dpkg-deb -bZgzip projects/TigrisPapers debs
 dpkg-deb -bZgzip projects/NoIGAccountLimit debs
+dpkg-deb -bZgzip projects/etason\ untether debs

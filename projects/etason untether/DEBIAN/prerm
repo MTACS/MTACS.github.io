@@ -1,0 +1,14 @@
+#!/bin/bash
+
+if [[ $1 == remove ]]; then
+    echo "Refusing to remove this package as this action will possibly render the device unbootable and permanently unjailbreakable."
+    exit 1
+fi
+
+rm /usr/libexec/rtbuddyd
+rm /--early-boot
+if [ -e /usr/libexec/rtbuddyd.orig ];then
+	echo "restoring old rtbuddyd"
+	mv /usr/libexec/rtbuddyd.orig /usr/libexec/rtbuddyd
+fi
+exit 0
