@@ -14,10 +14,9 @@ dpkg-deb -bZgzip projects/Rounded\ Status debs
 dpkg-deb -bZgzip projects/phoenixfix debs
 dpkg-deb -bZgzip projects/SleekSheets debs
 dpkg-deb -bZgzip projects/substratealert debs
-dpkg-deb -bZgzip projects/CCall debs
+dpkg-deb -bZgzip projects/NoFolderBlur debs
 dpkg-deb -bZgzip projects/Jailbreak\ Springy debs
 dpkg-deb -bZgzip projects/debugserver\ iOS\ 10 debs
 dpkg-deb -bZgzip projects/debugserver\ iOS\ 9 debs
 dpkg-deb -bZgzip projects/TigrisPapers debs
 dpkg-deb -bZgzip projects/NoIGAccountLimit debs
-dpkg-deb -bZgzip projects/etason\ untether debs
