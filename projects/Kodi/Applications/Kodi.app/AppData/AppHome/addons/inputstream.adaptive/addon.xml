@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="inputstream.adaptive"
+  version="2.0.19"
+  name="InputStream Adaptive"
+  provider-name="peak3d">
+  <requires></requires>
+  <extension
+    point="kodi.inputstream"
+    name="adaptive"
+    extension=""
+    tags="true"
+    listitemprops="license_type|license_key|license_data|manifest_type|server_certificate|stream_headers|manifest_update_parameter"
+    library_ios="inputstream.adaptive.2.0.19.dylib"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">InputStream client for adaptive streams</summary>
+    <description lang="en">InputStream client for adaptive streams</description>
+    <platform>ios</platform>
+  </extension>
+</addon>

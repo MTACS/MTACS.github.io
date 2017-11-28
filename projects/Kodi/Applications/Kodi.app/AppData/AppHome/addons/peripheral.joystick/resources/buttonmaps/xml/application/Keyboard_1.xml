@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<buttonmap>
+    <device name="Keyboard" provider="application" index="1">
+        <controller id="game.controller.default">
+            <feature name="a" button="88" />
+            <feature name="b" button="90" />
+            <feature name="back" button="211" />
+            <feature name="down" button="129" />
+            <feature name="left" button="130" />
+            <feature name="leftbumper" button="81" />
+            <feature name="lefttrigger" button="49" />
+            <feature name="right" button="131" />
+            <feature name="rightbumper" button="87" />
+            <feature name="righttrigger" button="50" />
+            <feature name="start" button="13" />
+            <feature name="up" button="128" />
+            <feature name="x" button="83" />
+            <feature name="y" button="65" />
+        </controller>
+    </device>
+</buttonmap>
