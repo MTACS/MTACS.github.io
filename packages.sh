@@ -16,7 +16,6 @@ dpkg-deb -bZgzip projects/SleekSheets debs
 dpkg-deb -bZgzip projects/substratealert debs
 dpkg-deb -bZgzip projects/SimpleFolders debs
 dpkg-deb -bZgzip projects/Jailbreak\ Springy debs
-dpkg-deb -bZgzip projects/debugserver\ iOS\ 10 debs
-dpkg-deb -bZgzip projects/debugserver\ iOS\ 9 debs
+dpkg-deb -bZgzip projects/Apple\ Debug\ Server debs
 dpkg-deb -bZgzip projects/TigrisPapers debs
 dpkg-deb -bZgzip projects/NoIGAccountLimit debs
