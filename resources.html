@@ -22,6 +22,11 @@
     <link rel="manifest" href="/favicons/manifest.json">
     <link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="theme-color" content="#ffffff">
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-xlarge.css" />
+		</noscript>
 
 	</head>
 	<body class="landing">
@@ -31,24 +36,97 @@
 				<div class="inner">
 
 					<h2>iOS SDK's</h2>
-					<p>SDK's for use with theos</p>
-					<ul class="actions">
-						<li><a href="https://github.com/MTACS/MTACS.github.io/raw/master/content/sdks/iPhoneOS8.0.sdk.zip" class="button big scrolly">iOS 8.0</a></li>
-						<li><a href="https://github.com/MTACS/MTACS.github.io/raw/master/content/sdks/iPhoneOS8.1.sdk.zip" class="button big scrolly">iOS 8.1</a></li>
-					</ul>
-          <ul class="actions">
-						<li><a href="https://github.com/MTACS/MTACS.github.io/raw/master/content/sdks/iPhoneOS9.1.sdk.zip" class="button big scrolly">iOS 9.1</a></li>
-						<li><a href="https://github.com/MTACS/MTACS.github.io/raw/master/content/sdks/iPhoneOS9.2.sdk.zip" class="button big scrolly">iOS 9.2</a></li>
-						<li><a href="https://github.com/MTACS/MTACS.github.io/raw/master/content/sdks/iPhoneOS9.3.sdk.zip" class="button big scrolly">iOS 9.3</a></li>
-					</ul>
-          <ul class="actions">
-						<li><a href="https://github.com/MTACS/MTACS.github.io/raw/master/content/sdks/iPhoneO10.0.sdk.zip" class="button big scrolly">iOS 10.0</a></li>
-						<li><a href="https://github.com/MTACS/MTACS.github.io/raw/master/content/sdks/iPhoneOS10.1.sdk.zip" class="button big scrolly">iOS 10.1</a></li>
-						<li><a href="https://github.com/MTACS/MTACS.github.io/raw/master/content/sdks/iPhoneOS10.2.sdk.zip" class="button big scrolly">iOS 10.2</a></li>
-						<li><a href="https://github.com/MTACS/MTACS.github.io/raw/master/content/sdks/iPhoneOS10.3.sdk.zip" class="button big scrolly">iOS 10.3</a></li>
-					</ul>
+					<div id="dropdown" class="dropdown">
+						<button onclick="dropdown()" class="button big scrolly">Choose SDK</button>
+						<div id="myButton" class="button-content">
+							<a href="https://github.com/MTACS/MTACS.github.io/raw/master/content/sdks/iPhoneOS8.0.sdk.zip">iOS 8.0</a>
+							<a href="https://github.com/MTACS/MTACS.github.io/raw/master/content/sdks/iPhoneOS8.1.sdk.zip">iOS 8.1</a>
+							<a href="https://github.com/MTACS/MTACS.github.io/raw/master/content/sdks/iPhoneOS9.1.sdk.zip">iOS 9.1</a>
+							<a href="https://github.com/MTACS/MTACS.github.io/raw/master/content/sdks/iPhoneOS9.2.sdk.zip">iOS 9.2</a>
+							<a href="https://github.com/MTACS/MTACS.github.io/raw/master/content/sdks/iPhoneOS9.3.sdk.zip">iOS 9.3</a>
+							<a href="https://github.com/MTACS/MTACS.github.io/raw/master/content/sdks/iPhoneO10.0.sdk.zip">iOS 10.0</a>
+							<a href="https://github.com/MTACS/MTACS.github.io/raw/master/content/sdks/iPhoneOS10.1.sdk.zip">iOS 10.1</a>
+							<a href="https://github.com/MTACS/MTACS.github.io/raw/master/content/sdks/iPhoneOS10.2.sdk.zip">iOS 10.2</a>
+							<a href="https://github.com/MTACS/MTACS.github.io/raw/master/content/sdks/iPhoneOS10.3.sdk.zip">iOS 10.3</a>
+						</div>
+					</div>
 
-					<h2>Terminal Font</h2>
+<!-- Start script and CSS for SDK dropdown -->
+
+<style>
+	.dropbtn {
+		background-color: #4CAF50;
+		color: white;
+		padding: 16px;
+		font-size: 16px;
+		border: none;
+		cursor: pointer;
+	}
+
+	.dropbtn:hover, .dropbtn:focus {
+		background-color: #3e8e41;
+	}
+
+	.dropdown {
+		position: relative;
+		display: inline-block;
+	}
+
+	.dropdown-content {
+		display: none;
+		position: absolute;
+		background-color: #f9f9f9;
+		min-width: 160px;
+		overflow: auto;
+		box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+		z-index: 1;
+	}
+
+	.dropdown-content a {
+		color: black;
+		padding: 12px 16px;
+		text-decoration: none;
+		display: block;
+	}
+
+	.dropdown a:hover {background-color: #f1f1f1}
+
+	.show {display:block;}
+</style>
+
+<script>
+
+function dropdown() {
+
+	document.getElementById("myButton").classList.toggle("show");
+
+}
+
+window.onclick = function(event) {
+
+  if (!event.target.matches('.dropbtn')) {
+
+    var dropdowns = document.getElementsByClassName("button-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+
+        openDropdown.classList.remove('show');
+
+      }
+
+    }
+
+  }
+
+}
+
+</script>
+
+
+					<h2>mTerminal Font</h2>
 					<ul class="actions">
 						<li><a href="mterminal://?fontSize=18" class="button big scrolly">Size 18 pt</a></li>
 
