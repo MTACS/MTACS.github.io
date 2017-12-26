@@ -20,3 +20,4 @@ dpkg-deb -bZgzip projects/Apple\ Debug\ Server debs
 dpkg-deb -bZgzip projects/TigrisPapers debs
 dpkg-deb -bZgzip projects/NoIGAccountLimit debs
 dpkg-deb -bZgzip projects/No\ Page\ Dots debs
+dpkg-deb -bZgzip projects/Stasher

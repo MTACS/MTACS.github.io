@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
 Filename: ./debs/com.mattr.sleeksheets_1.0_iphoneos-arm.deb
 Size: 6660
-MD5sum: 435ccd8964f173bbd6295789c83c7fdd
-SHA1: d500edd34a2ca1ebc13895c19e07815b10b37eb0
-SHA256: a6c77e294c2580854f36d931c3bbc51fadbc68f53406431da557d755099bc2bb
+MD5sum: c75c036308cc1a7e89e83178c36d5e41
+SHA1: 0b3a28a4f931495bb85b8bc7f17a4f4d21a9a14b
+SHA256: 7f475520f26545db5c30d63241b9da112a8e6f52afceb5677206479b9d7cfb6d
 Section: Tweaks
 Description: Re-upload of the original SleekSheets tweak for iOS 8 & 9
 Author: mattr
@@ -19,9 +19,9 @@ Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
 Filename: ./debs/com.memalloc.11beta_0.1.10a_iphoneos-arm.deb
 Size: 587200
-MD5sum: 343bcdc3da3b641ccc1592f5089552c0
-SHA1: a4dc379faeaea13b9a3df1203538b14ff5d06f46
-SHA256: 0de3faedd1464f04bf8a2132331cf9bad8651d993bb437218b0b98b4198db51d
+MD5sum: 3fbdb7702adf7c36c9fea2d043904466
+SHA1: 929b469122e3f508f953dfa06c9349dbfcef8d55
+SHA256: 236ed559ce7de45772a9cc1c111681edf7d111d3a044c7ffdc8df12bb0b6d2ce
 Section: Themes
 Description: 11 Beta, iOS 11 look for your iDevice
 Author: @mem_alloc <https://twitter.com/mem_alloc>
@@ -35,9 +35,9 @@ Maintainer: MTAC
 Depends: mobilesubstrate, firmware (>= 9.0)
 Filename: ./debs/com.mtac.debugserver9_370.0.42_iphoneos-arm.deb
 Size: 594222
-MD5sum: 2322bd335d2119c904237669145f7fe8
-SHA1: 6819f04af096e17fe8104306e0d0514546fb9dc0
-SHA256: 6226cfb701dc01a9badb1d221b48ceccf53b504d65615ed802bf2ce44163cd1d
+MD5sum: a0df0e34d343f4257061ed9d6e5de265
+SHA1: 072b567b3468659ece68ec9c7af31f5266220333
+SHA256: 9b490e6a6c5c4c55d8357a16b27a8781014e7a32ce3b5bf30eaa00fa1843f7ef
 Section: System
 Description: Apple's lldb debugging server
 Author: MTAC
@@ -49,9 +49,9 @@ Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
 Filename: ./debs/com.mtac.freya_1.1.2_iphoneos-arm.deb
 Size: 12817768
-MD5sum: 08409b74785448128abeb253b2bf4a45
-SHA1: 8a870d9a199dbc5610db69c522cf836772c9cb7c
-SHA256: 3b7fc391149ceaef8a8aad8daead257763802a3f822b99112d41c799ead62306
+MD5sum: 3c4949aeef698608f9a044c475d3e7cd
+SHA1: 070e5e30e1849a96210c67a007051b41dc971a7c
+SHA256: 7dd623b3773d3cab223c10c323ddb5a7f361c3c236eefdd310b3dfa4ee2d7ab2
 Section: Themes
 Description: Freya, an appealing theme for Anemone on iOS
 Author: MTAC <mtactheming@gmail.com>
@@ -64,9 +64,9 @@ Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
 Filename: ./debs/com.mtac.ios3dock_1.1.3_iphoneos-arm.deb
 Size: 417282
-MD5sum: 85292b47b4f2b188c41dda2e4e96067b
-SHA1: 9b2f08dc4580176650a0fd1d512f225e8da590f5
-SHA256: 92b7468d08f33fd94e88a462c15d0216dfbf9895a8048f1fd61cae64471ed9e9
+MD5sum: ddfdd0e8f6a04a0f225aba5bd9512b54
+SHA1: e870524a76e399252c9dcf3f81e357317074f426
+SHA256: 6bc6793d8a88a8c980cbaddbf98f7e5d191dda22314edfe1de29944f2b6ce912
 Section: Themes
 Description: iOS 3 Dock for modern devices
 Author: MTAC <mtactheming@gmail.com>
@@ -79,9 +79,9 @@ Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
 Filename: ./debs/com.mtac.jbspringy_1.0.2_iphoneos-arm.deb
 Size: 74232
-MD5sum: 6e17683b4dd2c3ba554142a2e332fab7
-SHA1: 9ee2fcf2c91c803426aa4ac5b2ec09bf48693065
-SHA256: 319b26b25a4ff271404f65119e1b0626a66ba1d282d0c32d84a45dc9d207f601
+MD5sum: e9cef17c1e75026e14dfc3da5ab54bc7
+SHA1: eb3b2dbe249bd283543efb4126d55f0ffa73fa82
+SHA256: 19d74ba359e51bf4ef59d9616d9af8569297060cb72fa23bfc3a7690234b83d3
 Section: Themes (Springy)
 Description: Replicates Phoenix jailbreak's running screen
 Author: MTAC <mtactheming@gmail.com>
@@ -94,9 +94,9 @@ Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
 Filename: ./debs/com.mtac.mantra_1.1.2_iphoneos-arm.deb
 Size: 1346158
-MD5sum: 9d4622882bd2b2bfd90cc04205ad416a
-SHA1: 032e87aebda186141a4f9f750f2abe116a46c0bd
-SHA256: 43222b69f81db3c48ffce2527a9584b6a822dfa043d742ad6d6a547f837dde77
+MD5sum: a8cbff6af48c00c40ba72ec64e6517e3
+SHA1: 326442b358ca866a3bfdb5a4083cc637e431d377
+SHA256: 5304924954e30e8701990ffe0dfafcfb537d67c51849faa813553f141c513d89
 Section: Themes
 Description: Mantra, a simple theme
 Author: MTAC <mtactheming@gmail.com>
@@ -111,9 +111,9 @@ Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debs/com.mtac.noigacclimit_0.0.1-1+debug_iphoneos-arm.deb
 Size: 4434
-MD5sum: 6c6b72da627ea65423ab858361d226b3
-SHA1: db2c753f8e4b864f1fc89946ecdfe0d4301e3e8a
-SHA256: 455ef626ff885cec0e2e717b6ca5786a6e531ea932ca70ec87ba7ce61a20d8c6
+MD5sum: 1518ed3ef23db041e99919125b11e457
+SHA1: 66d13167ce74a201393a7d8e20dd5e91277d0393
+SHA256: 2958802c14d8e10d0128a19745bae9060d48d8128640b6e73024ceaacf8d578c
 Section: Tweaks
 Description: Allow more than 5 accounts on Instagram
 Author: MTAC
@@ -128,9 +128,9 @@ Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debs/com.mtac.nopagedots_0.0.1-1+debug_iphoneos-arm.deb
 Size: 4688
-MD5sum: 25bf05f6bb387dec2554ca3c61bfb251
-SHA1: 22181e58aa26193d540e15f1e4bc74f8211707e1
-SHA256: 8864912ee48422cba8ffc50b2460ae94008ae2484a1f89a8cd683fcbde10c6b0
+MD5sum: 44d01fb9ebe60a9f081a33423e6ba184
+SHA1: a087f493b0b006ae391177d5f7f83b770b1c3936
+SHA256: 10f92d6bb085499a8314e82ed4d06b4398674ba87d60a18f49568cb2e8cf7daa
 Section: Tweaks
 Description: Hide your page dots!
 Author: MTAC
@@ -142,9 +142,9 @@ Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
 Filename: ./debs/com.mtac.phoenixfix_0.1_iphoneos-arm.deb
 Size: 752
-MD5sum: ae75620313b9e0b65399e2f0880a012f
-SHA1: ec2718d2241dc6e87e10a57f731dafa0d2e2e783
-SHA256: aca3505a01428ef02c2544bb9f0f24edd948d7c84e7fc5b4743baa1f586505d5
+MD5sum: c73c9937c6e700380eb22896b02b9a98
+SHA1: 872c71601b91b0523fe5bc4f1a31e156b985c100
+SHA256: b9b05c2f5dbde4c43a9707cef517648c2b8141e60f22610ec5987fcc6a5ef6cf
 Section: Utilities
 Description: Fix sed on Phoenix iOS 9.3.5 jailbreak
 Author: MTAC <mtactheming@gmail.com>
@@ -158,9 +158,9 @@ Maintainer: MTAC <mtactheming@gmail.com>
 Installed-Size: 200
 Filename: ./debs/com.mtac.remotepowerprefs_0.1-5+debug_iphoneos-arm.deb
 Size: 62738
-MD5sum: 722d896afa969b004c30ce2d10d3b93b
-SHA1: 3e6e2f081030d98477ef57cfffefbb5b66991fa0
-SHA256: 5e32c3c001391850bd17c7c3187f5839f568ff8466a24ef4dbbbe07023e67fd7
+MD5sum: 34b8b77945582e984966cdc4b69e49da
+SHA1: 8804d1e0f99ca17f06c89486a1cb3ebbb4584151
+SHA256: cf6b9414921d4e954d21a7125ee4b92d4b92585a62f97cee41e1de2414a7c95f
 Section: Utilities
 Description: Test Preference Bundle for RemotePower
 Author: MTAC <mtactheming@gmail.com>
@@ -174,9 +174,9 @@ Maintainer: MTAC <mtactheming@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.mtac.roundedstatus_1.1_iphoneos-arm.deb
 Size: 59014
-MD5sum: 888f35559cb765c681fb6807bd1f2fa9
-SHA1: 938130010aea4d5ca0f0f7fd04001fe31887fc98
-SHA256: 38d9aba9ef2676edad724f8325206bb70d3c6d5af4347e4ba06c203f89c80afc
+MD5sum: b9e41e61be060a910f1fddfb2bc971de
+SHA1: 8a60eb5856580d71c4933aea1a83f68a3170b2d0
+SHA256: 7741e24981059470a15b5ae12cae4f159be8b9cc7b4c5d3ee44b9de5af19b247
 Section: Themes
 Description: Rounded Status theme originally by Joel49
 Author: MTAC <mtactheming@gmail.com>
@@ -190,9 +190,9 @@ Maintainer: MTAC
 Depends: mobilesubstrate
 Filename: ./debs/com.mtac.runtimebrowser_0.0.1_iphoneos-arm.deb
 Size: 455132
-MD5sum: 70dada7d5535d66392e1fb9ef96e4bd9
-SHA1: 2ff67db50706baf047810a9d3661a2b4facc59de
-SHA256: f2766f434979d3797297b21c1138a936aff1e3852e9dbaae46ddfe37e49a32c1
+MD5sum: a2dcaa1f743f19ae7bbbb242aa5a8605
+SHA1: d757bbcb9791fd2fb0b9c3621c8f70b82814329e
+SHA256: 10f92ed7a14a27a3833548ef37c92d946a721ea6b322d055d7c50132d26b789c
 Section: Tweaks
 Description: Objective-C runtime browser by Nicolas Seriot
 Author: Nicolas Seriot
@@ -207,9 +207,9 @@ Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debs/com.mtac.simplefolders_1.0-1+debug_iphoneos-arm.deb
 Size: 4390
-MD5sum: 5b189f684070edef3dce6d8bacc973f8
-SHA1: 23341538b45ba1c4d244c43ad061055cc75f117f
-SHA256: 0d14148db1fd3cd0e92c7466c5a97d8b5fa82fbf34d1ee46360970fb36704dca
+MD5sum: ea92b9631588c36d4c1fbf75d9c0b718
+SHA1: 1233f818d14192fdbb0660e66ff415a8d3238da3
+SHA256: 8417e0818fe08c90cc8983c20d29822b8ecc83bbf1165e035487d9727abbcd54
 Section: Tweaks
 Description: Make your iOS 10 folders look cleaner
 Author: MTAC
@@ -222,9 +222,9 @@ Maintainer: MTAC
 Depends: mobilesubstrate
 Filename: ./debs/com.mtac.substratealert_0.0.2_iphoneos-arm.deb
 Size: 26040
-MD5sum: 75d797a49032f045e3b56034c409a756
-SHA1: a9a33a69aa7da414038082f5b474ab3c34fd51bd
-SHA256: 599ccede914d460425fd0ca3e533b54189f526b4fbf9a92c8072c7fa085bc8e1
+MD5sum: b5af74f07181cbea82258a2384276a94
+SHA1: de6fc15081f702f584fad5530a4950f1e5e63c5e
+SHA256: 8c6a035989f54f1bb5ca466f3dc57bafa061d6f1918784e5a1a4ddcb5e2fcb95
 Section: Tweaks
 Description: Super simple tweak to let me know when substrate loads, for setups with no visual changes
 Author: MTAC
@@ -237,9 +237,9 @@ Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
 Filename: ./debs/com.mtac.terminalpower_1.0_iphoneos-arm.deb
 Size: 766
-MD5sum: 08eef1d127813a043e46612ee5623005
-SHA1: 68a251112a4527c7d367b35ccaec064bcf4e53ec
-SHA256: 8183318f80180c982420037e1ca0c31e0027bc346f16a1e5fbe7250bf6cc2e50
+MD5sum: df03055f7ff9d1a7d62d4abc026171b5
+SHA1: 3de50fac9888a8710a592109f15c4e16a89472c7
+SHA256: bcc1518409d7c2673923adeb02e0635f75bfd0ded1cfe49e690efd7710874dca
 Section: Utilities
 Description: Safemode & Respring via one terminal command
 Author: MTAC <mtactheming@gmail.com>
@@ -252,9 +252,9 @@ Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
 Filename: ./debs/com.mtac.tigrispapers_1.0_iphoneos-arm.deb
 Size: 20059536
-MD5sum: 19dade14218479117a45b91905d9fd29
-SHA1: a10d755d948649a00e5c29efa455ac6b326362ad
-SHA256: 97943c80534616b6feadb9a951172896d838231b69409b62a41264b31cf96a75
+MD5sum: 5128bf8dfb054cf18bbbef5091516660
+SHA1: f268b2fccac9bcc3870f2090d62d7ba58496520f
+SHA256: 6b716f242f562417a71f6efcc634abae5f107efae5427e900ad42a447cd3be6b
 Section: Wallpaper
 Description: iOS 11 (Tigris) Wallpapers for iOS 10 and below
 Author: MTAC <mtactheming@gmail.com>
@@ -267,9 +267,9 @@ Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
 Filename: ./debs/com.mtac.verbose_1.1.3_iphoneos-arm.deb
 Size: 12583578
-MD5sum: 8c2f88a71b30135f6f66f85091cbe51e
-SHA1: 866dfdff87eb94b7aff81c3aef1ebc23a60a5b9d
-SHA256: e9e30fb2364ad111d5df95d402429a33e7966b352727a940bb7d604224d362c0
+MD5sum: add1fab3b6ebd5b7d116b44c9626921c
+SHA1: acffbb1ccb1eb4aa628a3ccca669ae131d9974cc
+SHA256: 8cbab5ed50a4b4d45943413414c54ccfc0170ef13998863fd99fe8a0b6b715c8
 Section: Themes (Springy)
 Description: Re-upload of a verbose Springy theme
 Author: MTAC <mtactheming@gmail.com>
@@ -284,9 +284,9 @@ Installed-Size: 260
 Depends: mobilesubstrate
 Filename: ./debs/com.nathanaccidentally.dock_0.0.2-1+debug_iphoneos-arm.deb
 Size: 29916
-MD5sum: 7a54d11267012ffaaf82b954dc8c9e2c
-SHA1: 9c20f6826def54ce2e6c9357ec81ce7229c2e40c
-SHA256: fbdb2958cceb57d812b7d348b00ae9bc087f747e16801456bb924abc1080de28
+MD5sum: 7ca89368547b464018e6fe9d3c3737b2
+SHA1: dd27e26bfa6d9212d25a94536728b1dcaba24ed9
+SHA256: 1b8944449851ccc6720eb8429fd8d32cd55056d36942b9bc408d0c6b6919cd51
 Section: Tweaks
 Description: The iOS 11 dock on iOS 10.
 Author: nathanaccidentally
