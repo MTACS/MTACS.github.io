@@ -513,6 +513,8 @@
 
 /* List */
 
+/*
+
 #centerList {
 
 	width: 100%;
@@ -532,9 +534,7 @@ ul.centered {
 	display: inline;
 	text-align: center;
 
-}
-
-/*
+} */
 
 	ol {
 		list-style: decimal;
@@ -704,7 +704,7 @@ ul.centered {
 		margin: 0 0 2em 0;
 	}
 
-*/
+
 
 /* Table */
 
