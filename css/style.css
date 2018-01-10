@@ -513,6 +513,29 @@
 
 /* List */
 
+#centerList {
+
+	width: 100%;
+	text-align: center;
+
+
+}
+
+ul.centered {
+
+	padding-left: 0;
+
+}
+
+.centered li {
+
+	display: inline;
+	text-align: center;
+
+}
+
+/*
+
 	ol {
 		list-style: decimal;
 		margin: 0 0 2em 0;
@@ -680,6 +703,8 @@
 	dl {
 		margin: 0 0 2em 0;
 	}
+
+*/
 
 /* Table */
 
