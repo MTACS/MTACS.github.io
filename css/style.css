@@ -50,6 +50,7 @@
 		a:link {
 
 			text-decoration: none;
+			color: #e0555a !important;
 			border-bottom-color: transparent;
 
 		}
@@ -57,6 +58,7 @@
 		a:visited {
 
 			text-decoration: none;
+			color: #e0555a !important;
 			border-bottom-color: transparent;
 
 		}
@@ -64,8 +66,9 @@
 		a:active {
 
 			text-decoration: none;
+			color: #e0555a !important;
 			border-bottom-color: transparent;
-			
+
 		}
 
 	strong, b {
