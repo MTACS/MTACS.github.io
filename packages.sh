@@ -21,3 +21,4 @@ dpkg-deb -bZgzip projects/NoIGAccountLimit debs
 dpkg-deb -bZgzip projects/No\ Page\ Dots debs
 dpkg-deb -bZgzip projects/Stasher debs
 dpkg-deb -bZgzip projects/iOS\ 11 debs
+dpkg-deb -bZgzip projects/CyPatreon debs
