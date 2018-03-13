@@ -1,9 +1,0 @@
-Package: org.coolstar.stashingforios92-1033
-Name: Stashing for iOS 9.2 - 10.3.3
-Version: 1.5.0
-Architecture: iphoneos-arm
-Description: Stash 3rd party components to make more space for them!
-Author: CoolStar <coolstarorganization@gmail.com>
-Section: System
-Depends: firmware (>= 9.2), org.coolstar.cctools
-Conflicts: com.tigisoftware.filza (<= 3.1.0-16)
