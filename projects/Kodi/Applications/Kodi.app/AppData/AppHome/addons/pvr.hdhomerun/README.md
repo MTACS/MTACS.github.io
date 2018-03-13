@@ -1,4 +1,0 @@
-pvr.hdhomerun.extras
-====================
-
-### Usage
