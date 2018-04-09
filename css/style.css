@@ -887,7 +887,7 @@ ul.centered {
 			height: 3.5em;
 			line-height: 3.5em;
 			padding: 0 2.25em;
-			
+
 		}
 
 		input[type="submit"].special,
@@ -1403,9 +1403,7 @@ ul.centered {
 	#footer {
 		color: #949494;
 		padding: 4em 0;
-		text-align: center;
-		opacity: 0.5;
-		filter: blur(4px);
+		text-align: center;		
 	}
 
 		#footer .icons {
