@@ -1317,6 +1317,11 @@ ul.centered {
 			z-index: 2;
 		}
 
+		#banner .paragraph {
+			padding-left: 50px;
+			padding-right: 50px;
+		}
+
 		#banner .button {
 			border-color: white !important;
 			color: #ffffff !important;
@@ -1403,7 +1408,7 @@ ul.centered {
 	#footer {
 		color: #949494;
 		padding: 4em 0;
-		text-align: center;		
+		text-align: center;
 	}
 
 		#footer .icons {
