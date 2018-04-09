@@ -1403,6 +1403,8 @@ ul.centered {
 		color: #949494;
 		padding: 4em 0;
 		text-align: center;
+		opacity: 0.5;
+		filter: blur(4px);
 	}
 
 		#footer .icons {
