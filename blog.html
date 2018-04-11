@@ -34,6 +34,13 @@
     margin: 0;
 	}
 
+	img.blog {
+
+		width: 80%;
+		height: auto;
+
+	}
+
 	.column {
     float: left;
     width: 25%;
@@ -55,7 +62,7 @@
 				<div class="paragraph" name="">
 
 					<h2>April 9, 2018</h2>
-					<div class="" align="center">
+					<div class="blog" align="center">
 						<p>Securing macOS with SleepWatcher</p>
 						<br>
 						<p>Normally macOS leaves its network connected even while asleep. This allows for push notifications and
@@ -64,29 +71,30 @@
 						</p>
 						<br>
 						<p>To install SleepWatcher the easy way, I used HomeBrew, a package manager for macOS</p>
-						<img src="/images/blog/homebrew.png" width="825" height="606">
+						<img src="/images/blog/homebrew.png" class="blog">
 						<br>
 						<p>Once HomeBrew is sucessfully installed, run this to install SleepWatcher</p>
 						<br>
-						<img src="/images/blog/sleepwatcherinstall.png" width="825" height="606">
+						<img src="/images/blog/sleepwatcherinstall.png" class="blog">
 						<br>
 						<p>Now SleepWatcher is installed, we must configure it to turn off wifi(en0) when going to sleep. To do this, create a file in your user directory
 						called .sleep by running "touch ~/.sleep" in Terminal without quotes.</p>
 						<br>
-						<img src="/images/blog/sleepwatcheroff.png" height="606" width="825">
+						<img src="/images/blog/sleepwatcheroff.png" class="blog">
 						<br>
 						<p>Save it by hitting "ctrl+x" followed by "y" without quotes. Do the same to create a file called ~/.wakeup but replace off with on.</p>
 						<br>
-						<img src="/images/blog/sleepwatcheroff.png" height="606" width="825">
+						<img src="/images/blog/sleepwatcheroff.png" class="blog">
 						<br>
-						<img src="/images/blog/sleepwatcheron.png" height="606" width="825">
+						<img src="/images/blog/sleepwatcheron.png"class="blog">
 						<br>
 						<p>Finally, run both these commands for SleepWatcher to load your wake and sleep scripts.</p>
 						<br>
-						<img src="/images/blog/sleep.png" height="606" width="825">
+						<img src="/images/blog/sleep.png" class="blog">
 						<br>
-						<img src="/images/blog/wakeup.png" height="606" width="825">
+						<img src="/images/blog/wakeup.png" class="blog">
 						<br>
+						<!--  height="606" width="825" -->
 					</div>
 
 
