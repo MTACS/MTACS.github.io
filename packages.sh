@@ -16,3 +16,4 @@ dpkg-deb -bZgzip projects/TigrisPapers debs
 dpkg-deb -bZgzip projects/NoIGAccountLimit debs
 dpkg-deb -bZgzip projects/iOS\ 11 debs
 dpkg-deb -bZgzip projects/CyPatreon debs
+dpkg-deb -bZgzip projects/BarVol debs
