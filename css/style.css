@@ -1,5 +1,6 @@
 @import url(font-awesome.min.css);
 @import url("http://fonts.googleapis.com/css?family=Lato:300,700");
+@import url("http://fonts.googleapis.com/css?family=Lato:300,700");
 
 	body {
 		background: #fff;
@@ -20,7 +21,7 @@
 
 	body, input, select, textarea {
 		color: #646464;
-		font-family: "Lato", Helvetica, sans-serif;
+		font-family: 'Raleway', Helvetica, sans-serif;
 		font-size: 15pt;
 		font-weight: 300;
 		line-height: 1.75em;
@@ -50,7 +51,7 @@
 		a:link {
 
 			text-decoration: none;
-			color: #e0555a !important;
+			color: #ffffff !important;
 			border-bottom-color: transparent;
 
 		}
@@ -58,7 +59,7 @@
 		a:visited {
 
 			text-decoration: none;
-			color: #e0555a !important;
+			color: #ffffff !important;
 			border-bottom-color: transparent;
 
 		}
@@ -66,7 +67,7 @@
 		a:active {
 
 			text-decoration: none;
-			color: #e0555a !important;
+			color: #ffffff !important;
 			border-bottom-color: transparent;
 
 		}
