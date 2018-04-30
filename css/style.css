@@ -1279,7 +1279,7 @@ ul.centered {
 
 	#banner {
 		background-attachment: scroll,						fixed;
-		background-color: #2E4053;
+		background-color: #283747;
 		/* background-image: url("images/overlay.png"), url("../images/banner.png"); */
 		background-position: top left,					center center;
 		background-repeat: repeat,						no-repeat;
@@ -1290,7 +1290,7 @@ ul.centered {
 		text-align: center;
 	}
 
-		#banner:after {
+		/* #banner:after {
 			-moz-transition: opacity 2s ease-in-out;
 			-webkit-transition: opacity 2s ease-in-out;
 			-o-transition: opacity 2s ease-in-out;
@@ -1305,7 +1305,7 @@ ul.centered {
 			top: 0;
 			width: 100%;
 			z-index: 1;
-		}
+		} */
 
 		#banner :last-child {
 			margin-bottom: 0;
