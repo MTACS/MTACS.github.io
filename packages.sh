@@ -18,3 +18,4 @@ dpkg-deb -bZgzip projects/iOS\ 11 debs
 dpkg-deb -bZgzip projects/CyPatreon debs
 dpkg-deb -bZgzip projects/BarVol debs
 dpkg-deb -bZgzip projects/SmoothNotifications debs
+dpkg-deb -bZgzip projects/SimpleSettings debs
