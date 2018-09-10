@@ -20,3 +20,4 @@ dpkg-deb -bZgzip projects/BarVol debs
 dpkg-deb -bZgzip projects/SmoothNotifications debs
 dpkg-deb -bZgzip projects/SimpleSettings debs
 dpkg-deb -bZgzip projects/NOIGTV debs
+dpkg-deb -bZgzip projects/CleanMusicCC debs
