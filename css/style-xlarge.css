@@ -1,11 +1,8 @@
-
-
-	body, input, select, textarea {
-		font-size: 12pt;
-	}
+body, input, select, textarea {
+  font-size: 12pt;
+}
 
 /* Banner */
-
-	#banner {
-		padding: 12em 0;
-	}
+#banner {
+  padding: 12em 0;
+}

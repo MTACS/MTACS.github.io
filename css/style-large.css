@@ -1,16 +1,14 @@
 body, input, select, textarea {
-		font-size: 11pt;
-	}
+  font-size: 11pt;
+}
 
 /* Header */
-
-	.dropotron.level-0 {
-		font-size: 1em;
-	}
+.dropotron.level-0 {
+  font-size: 1em;
+}
 
 /* Banner */
-
-	#banner {
-		background-attachment: scroll;
-		padding: 10em 0;
-	}
+#banner {
+  background-attachment: scroll;
+  padding: 10em 0;
+}
