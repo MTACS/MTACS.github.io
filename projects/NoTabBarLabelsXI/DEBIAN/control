@@ -1,0 +1,10 @@
+Package: com.mtac.notabbarlabelsxi
+Name: NoTabBarLabelsXI
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: MTAC
+Author: MTAC
+Section: Tweaks
+Version: 0.0.1-2+debug
+Installed-Size: 120
