@@ -1,0 +1,10 @@
+Package: com.mtac.cleancydiatabs
+Name: CleanCydiaTabs
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Clean up Cydia's TabBar for iPhone X
+Maintainer: MTAC
+Author: MTAC
+Section: Tweaks
+Version: 0.0.1-1+debug
+Installed-Size: 120
