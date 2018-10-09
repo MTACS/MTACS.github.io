@@ -2,7 +2,7 @@ Package: com.mattr.sleeksheets
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
-Filename: debs/com.mattr.sleeksheets_1.0_iphoneos-arm.deb
+Filename: ./debs/com.mattr.sleeksheets_1.0_iphoneos-arm.deb
 Size: 6622
 MD5sum: d589e495a317edec27e10966231d086f
 SHA1: 2a2b9c009dce0fbafac1664d36267912d3d3fc92
@@ -18,7 +18,7 @@ Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: MTAC
 Depends: mobilesubstrate
-Filename: debs/com.mtac.barvol_0.1_iphoneos-arm.deb
+Filename: ./debs/com.mtac.barvol_0.1_iphoneos-arm.deb
 Size: 49592
 MD5sum: 596f1c02601c5dc3da46fdcb05e0f657
 SHA1: 03cc79332bf5823e7981649d5f5e8081194765ae
@@ -35,7 +35,7 @@ Architecture: iphoneos-arm
 Maintainer: MTAC
 Installed-Size: 248
 Depends: mobilesubstrate
-Filename: debs/com.mtac.cleancydiatabs_0.0.2_iphoneos-arm.deb
+Filename: ./debs/com.mtac.cleancydiatabs_0.0.2_iphoneos-arm.deb
 Size: 12512
 MD5sum: 14a64697582dda1b7383a8297cccee12
 SHA1: c9883ac0acfb796df60d562326e476a834890155
@@ -51,7 +51,7 @@ Architecture: iphoneos-arm
 Maintainer: MTAC
 Installed-Size: 200
 Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: debs/com.mtac.cleanmusiccc_1.0-1+debug_iphoneos-arm.deb
+Filename: ./debs/com.mtac.cleanmusiccc_1.0-1+debug_iphoneos-arm.deb
 Size: 2000
 MD5sum: 74a6851f3306b67c6f26d51d905c2306
 SHA1: c68806bc4dc74507d9482e1fcd6c0b87f2d55de1
@@ -66,7 +66,7 @@ Version: 370.0.42
 Architecture: iphoneos-arm
 Maintainer: MTAC
 Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: debs/com.mtac.debugserver9_370.0.42_iphoneos-arm.deb
+Filename: ./debs/com.mtac.debugserver9_370.0.42_iphoneos-arm.deb
 Size: 594196
 MD5sum: 33e9198c68647a590f45e310a584815f
 SHA1: 2e25c5099c1c214678fc56430947e0aec42ea8b8
@@ -82,7 +82,7 @@ Architecture: iphoneos-arm
 Maintainer: MTAC
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: debs/com.mtac.noigacclimit_0.0.1-1+debug_iphoneos-arm.deb
+Filename: ./debs/com.mtac.noigacclimit_0.0.1-1+debug_iphoneos-arm.deb
 Size: 4414
 MD5sum: 89a5e0d3f109980ca3dc239e051e6df3
 SHA1: 64b343d761e672e74106ca8491a60065db0393be
@@ -99,7 +99,7 @@ Architecture: iphoneos-arm
 Maintainer: MTAC
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: debs/com.mtac.notabbarlabelsxi_0.0.1-2+debug_iphoneos-arm.deb
+Filename: ./debs/com.mtac.notabbarlabelsxi_0.0.1-2+debug_iphoneos-arm.deb
 Size: 4746
 MD5sum: 607de9ba20e840bf90511d907b8ed129
 SHA1: fbca841710df3c5f4204ea35d56a60fb1a9a1490
@@ -114,7 +114,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
 Depends: com.anemonetheming.anemone
-Filename: debs/com.mtac.roundedstatus_1.1_iphoneos-arm.deb
+Filename: ./debs/com.mtac.roundedstatus_1.1_iphoneos-arm.deb
 Size: 58802
 MD5sum: 6d24cc47ef72e63539790db41d1908e5
 SHA1: 507c9802825b3ca011cd4bafabc6b4a7d8d04405
@@ -130,7 +130,7 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: MTAC
 Depends: mobilesubstrate
-Filename: debs/com.mtac.runtimebrowser_0.0.1_iphoneos-arm.deb
+Filename: ./debs/com.mtac.runtimebrowser_0.0.1_iphoneos-arm.deb
 Size: 455106
 MD5sum: 625fcaf0815078ccce6967d7af4154f1
 SHA1: e73dc45b0075329e02af3934a8969616aa930da1
@@ -147,7 +147,7 @@ Architecture: iphoneos-arm
 Maintainer: MTAC
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: debs/com.mtac.simplefolders_1.0-1+debug_iphoneos-arm.deb
+Filename: ./debs/com.mtac.simplefolders_1.0-1+debug_iphoneos-arm.deb
 Size: 4372
 MD5sum: 30bfef6d6144a5c58c5da81a793f3138
 SHA1: 872b62f5409fbae61c443af03a68dd6073e31a95
@@ -163,7 +163,7 @@ Architecture: iphoneos-arm
 Maintainer: MTAC
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: debs/com.mtac.simplesettings_0.0.1_iphoneos-arm.deb
+Filename: ./debs/com.mtac.simplesettings_0.0.1_iphoneos-arm.deb
 Size: 2810
 MD5sum: d5d65bb4d3121d463f203bc7dab8bf87
 SHA1: c3d48429b4b94b03cd0a54395c70811050c9237b
@@ -178,7 +178,7 @@ Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: MTAC
 Depends: mobilesubstrate
-Filename: debs/com.mtac.substratealert_0.0.2_iphoneos-arm.deb
+Filename: ./debs/com.mtac.substratealert_0.0.2_iphoneos-arm.deb
 Size: 25956
 MD5sum: 3b0118c3814d2d2de9aef80859ad1d62
 SHA1: c1d0194f12f2cd19e2df43da2b5c7bb356fef61c
@@ -193,7 +193,7 @@ Package: com.mtac.terminalpower
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
-Filename: debs/com.mtac.terminalpower_1.0_iphoneos-arm.deb
+Filename: ./debs/com.mtac.terminalpower_1.0_iphoneos-arm.deb
 Size: 746
 MD5sum: 7b1e8e740d9ab3d871029f282cb96460
 SHA1: 85e0789e9576da2617928b03f05eda2ae6fbe8fc
@@ -208,7 +208,7 @@ Package: com.mtac.tigrispapers
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
-Filename: debs/com.mtac.tigrispapers_1.0_iphoneos-arm.deb
+Filename: ./debs/com.mtac.tigrispapers_1.0_iphoneos-arm.deb
 Size: 20059492
 MD5sum: 47b2814c00e84dfaa23ef7344351ac4f
 SHA1: 915de789eeb2912a1b783017f40c5ef2d5f5eda4
