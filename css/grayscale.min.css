@@ -166,7 +166,7 @@
   font-size: 15px;
   padding: 12px 18px;
   position: absolute;
-  bottom: 8px;
+  /* bottom: 8px; */
   width: 100%;
   text-align: center;
 }
@@ -386,12 +386,12 @@ body {
 }
 
 a {
-  color: #64a19d
+  color: #FF5733
 }
 
 a:focus, a:hover {
   text-decoration: none;
-  color: #3c6360
+  color: #FF5733
 }
 
 .bg-black {
