@@ -1,115 +1,237 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
+<html lang="en">
 
-<html>
-	<head>
-		<title>MTAC</title>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
-		<script src="js/jquery.min.js"></script>
-		<script src="js/jquery.dropotron.min.js"></script>
-		<script src="js/jquery.scrollgress.min.js"></script>
-		<script src="js/jquery.scrolly.min.js"></script>
-		<script src="js/jquery.slidertron.min.js"></script>
-		<script src="js/skel.min.js"></script>
-		<script src="js/skel-layers.min.js"></script>
-		<script src="js/init.js"></script>
-		<link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
-    <link rel="manifest" href="/favicons/manifest.json">
-    <link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#5bbad5">
-    <meta name="theme-color" content="#ffffff">
-		<noscript>
-			<link rel="stylesheet" href="css/skel.css" />
-			<link rel="stylesheet" href="css/style.css" />
-			<link rel="stylesheet" href="css/style-xlarge.css" />
-		</noscript>
+  <head>
 
-	</head>
-	<body class="landing">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
 
-		<header id="header" class="alt skel-layers-fixed">
-				<nav id="nav">
-					<ul>
-						<li><a href="about.html">About</a></li>
-					</ul>
-				</nav>
-			</header>
+    <title>MTAC</title>
 
-			<section id="banner">
-				<div class="inner">
-					<img src="/images/Profile.png" height="250px" width="250px">
-					<br>
-              <br>
-					<h2>MTAC</h2>
-					<br>
-					<p>iOS & macOS - Developer & Designer </p>
-					<br>
-					<ul class="actions">
-						<li><a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://mtacs.github.io" class="button big scrolly">Add Repo</a></li>
-					</ul>
-					<ul class="actions">
-						<li><a href="/themes.html" class="button big scrolly">Themes</a></li>
-					</ul>
-					<ul class="actions">
-						<li><a href="/tweaks.html" class="button big scrolly">Tweaks</a></li>
-					</ul>
-					<ul class="actions">
-						<li><a href="/blog.html" class="button big scrolly">Blog</a></li>
-					</ul>
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-					<!-- <ul class="actions">
-						<li><a href="/resources.html" class="button big scrolly">Resources</a></li>
-					</ul> -->
+    <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/solid.css" integrity="sha384-VGP9aw4WtGH/uPAOseYxZ+Vz/vaTb1ehm1bwx92Fm8dTrE+3boLfF1SpAtB1z7HW" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/fontawesome.css" integrity="sha384-1rquJLNOM3ijoueaaeS5m+McXPJCGdr5HcA03/VHXxcp2kX2sUrQDmFc3jR5i/C7" crossorigin="anonymous">
 
-					<ul class="actions">
-						<li><a href="/themekit.html" class="button big scrolly">Projects</a></li>
-					</ul>
+    <link href="css/grayscale.min.css" rel="stylesheet">
 
+  </head>
 
-				</div>
-			</section>
+  <body id="page-top">
 
-<!--			<section id="one" class="wrapper style1">
-				<div class="container">
-					<header class="major">
-						<h2>Projects</h2>
-					</header>
-					<div class="slider">
-						<span class="nav-previous"></span>
-						<div class="viewer">
-							<div class="reel">
-								<div class="slide">
-									<a href="https://github.com/MTACS/ThemeKit"><img src="images/slide01.jpg" alt="" /></a>
-								</div>
-								<div class="slide">
-									<a href="https://github.com/MTACS/Yalu-X"><img src="images/slide02.jpg" alt="" /></a>
-								</div>
-								<div class="slide">
-									<a href="cydia://package/com.macciti.freya"></a><img src="images/slide03.jpg" alt="" /></a>
-								</div>
-								<div class="slide">
-									<a href="cydia://package/com.macciti.mantra"></a><img src="images/slide04.jpg" alt="" /></a>
-								</div>
-							</div>
-						</div>
-						<span class="nav-next"></span>
-					</div>
-				</div>
-			</section> -->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+      <div class="container" id="topbar">
+        <a href="https://twitter.com/mtac8"><img src="img/profileoutline.png" height="50" width="50" id="profile"></a>
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">MTAC Research</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
 
-			<footer id="footer">
-				<ul class="icons">
-					<li><a href="http://twitter.com/mtac8" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-					<li><a href="https://github.com/MTACS" class="icon fa-github"><span class="label">GitHub</span></a></li>
-					<li><a href="mailto:mtactheming@gmail.com" class="icon fa-envelope"><span class="label">Envelope</span></a></li>
-				</ul>
+          <i class="fas fa-bars"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://mtacs.github.io">Add Repo</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#projects">Projects</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#about">About</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
 
-				<span class="copyright">
-					2015 - 2018 &copy; MTAC Research
-				</span>
-			</footer>
+    <header class="masthead">
+      <div class="container d-flex h-100 align-items-center">
+        <div class="mx-auto text-center">
+          <!-- <img src="img/profile.png" alt="" height="200" width="200"> -->
+          <h1 class="mx-auto my-0 text-uppercase"></h1>
+          <h1 class="text-white-50 mx-auto mt-2 mb-5"></h1>
+          <a href="#projects" class="btn btn-primary js-scroll-trigger"><i class="fas fa-arrow-down darkicon"></i></a>
+        </div>
+      </div>
+    </header>
 
-	</body>
+    <section id="projects" class="about-section text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 mx-auto">
+            <h2 class="text-white mb-4">Projects</h2>
+            <p class="text-white-50">Useful tweaks & beautiful themes</p>
+          </div>
+        </div>
+
+        <div class="slideshow-container">
+
+            <div class="mySlides">
+              <div class="numbertext"></div>
+              <a href="https://mtacs.github.io/themes.html"><img src="img/slide01.png" style="width:100%"></a>
+              <div class="text"></div>
+            </div>
+
+            <div class="mySlides">
+              <div class="numbertext"></div>
+              <a href="cydia://package/com.mtac.popip"><img src="img/slide02.png" style="width:100%"></a>
+              <div class="text"></div>
+            </div>
+
+            <div class="mySlides">
+              <div class="numbertext"></div>
+              <a href="cydia://package/com.mtac.cleancydiatabs"><img src="img/slide03.png" style="width:100%"></a>
+              <div class="text"></div>
+            </div>
+
+            <div class="mySlides">
+              <div class="numbertext"></div>
+              <img src="img/slide04.png" style="width:100%">
+              <div class="text"></div>
+            </div>
+
+            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+            <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+        </div>
+
+        <script>
+
+          var slideIndex = 1;
+
+          showSlides(slideIndex);
+
+          function plusSlides(n) {
+
+            showSlides(slideIndex += n);
+
+          }
+
+          function currentSlide(n) {
+
+            showSlides(slideIndex = n);
+
+          }
+
+          function showSlides(n) {
+
+            var i;
+
+            var slides = document.getElementsByClassName("mySlides");
+
+            if (n > slides.length) {slideIndex = 1}
+
+            if (n < 1) {slideIndex = slides.length}
+
+            for (i = 0; i < slides.length; i++) {
+
+              slides[i].style.display = "none";
+
+            }
+
+            slides[slideIndex-1].style.display = "block";
+
+            dots[slideIndex-1].className += " active";
+
+          }
+
+          </script>
+
+        <!-- <img src="img/ipad.png" class="img-fluid" alt="">
+        <div class="slideshow">
+          <img src="img/slide01.png" class="slides img-fluid">
+          <img src="img/slide02.png" class="slides img-fluid">
+          <img src="img/slide03.png" class="slides img-fluid">
+          <img src="img/slide04.png" class="slides img-fluid">
+
+          <button class="w3-button w3-white w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+          <button class="w3-button w3-white w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+
+          <script>
+
+            var slideIndex = 1;
+
+            showDivs(slideIndex);
+
+            function plusDivs(n) {
+
+              showDivs(slideIndex += n);
+
+            }
+
+            function showDivs(n) {
+
+              var i;
+
+              var x = document.getElementsByClassName('slides');
+
+              if (n > x.length) {
+
+                slideIndex = 1
+
+              }
+
+              if (n < 1) {
+
+                slideIndex = x.length
+
+              }
+
+              for (i = 0; i < x.length; i++) {
+
+                x[i].style.display = "none";
+
+              }
+
+              x[slideIndex - 1].style.display = "block";
+
+            }
+
+          </script>
+
+        </div>
+      </div> -->
+    </section>
+
+    <section id="signup" class="contact-section bg-black">
+      <div class="container">
+
+        <div class="row">
+
+        </div>
+
+        <div class="social d-flex justify-content-center">
+          <a href="https://twitter.com/mtac8" class="mx-2">
+            <i class="fab fa-twitter"></i>
+          </a>
+          <a href="https://github.com/mtacs" class="mx-2">
+            <i class="fab fa-github"></i>
+          </a>
+          <a href="mailto:mtactheming@gmail.com" class="mx-2">
+            <i class="far fa-envelope"></i>
+          </a>
+        </div>
+
+      </div>
+    </section>
+
+    <footer class="bg-black small text-center text-white-50">
+      <div class="container">
+        Copyright &copy; MTAC Research 2018
+      </div>
+    </footer>
+
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <script src="js/grayscale.min.js"></script>
+
+  </body>
+
 </html>
