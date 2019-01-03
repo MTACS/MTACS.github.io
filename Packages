@@ -173,20 +173,6 @@ Author: MTAC
 Depiction: https://mtacs.github.io/description.html?id=com.mtac.substrate
 Name: Substrate Alert
 
-Package: com.mtac.substrateenabler
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: MTAC
-Filename: debs/com.mtac.substrateenabler_1.0_iphoneos-arm.deb
-Size: 1806
-MD5sum: d870e67608bf19c6084e35b86e08d2bf
-SHA1: b19e4685dab8bfa600e580af6fe39efb5c2baac1
-SHA256: 75288eb14502480f7990441ffb1f3daf8d1464a399aa2f3de5eecee45704f8de
-Section: Utilities
-Description: Re-enable tweaks after booting with no tweaks/no substrate mode
-Author: MTAC
-Name: SubstrateEnabler
-
 Package: com.mtac.terminalpower
 Version: 1.0
 Architecture: iphoneos-arm
