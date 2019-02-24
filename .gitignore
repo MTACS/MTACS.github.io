@@ -1,0 +1,7 @@
+/packages.sh
+/update.sh
+/RepoScript.command
+/cache
+/package-lock.json
+*.DS_Store
+*.sh
