@@ -1,4 +1,0 @@
-#!/bin/bash
-killall Safari
-rm -R /Users/daf/Library/Caches/com.apple.Safari
-open -a Safari

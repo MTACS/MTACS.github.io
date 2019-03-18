@@ -1,8 +1,0 @@
-{
-	"name": "SimpleSettings",
-	"desc_short": "Simplify your Settings",
-	"desc_long": "Make your settings look a little simpler",
-	"compatitle": "iOS 10, 11",
-	"changelog": "<strong>0.0.1</strong>",
-	"screenshot": "<div style='text-align:center;'><a href='https://imgur.com/HsiUvUT' target='_blank'><img width=50% height=50% src='https://imgur.com/HsiUvUT'/></a><br></div>",
-}

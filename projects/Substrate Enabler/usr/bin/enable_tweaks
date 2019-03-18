@@ -1,9 +1,0 @@
-#!/bin/bash
-
-/etc/rc.d/substrate;
-
-echo Substrate Enabled;
-
-sleep 5;
-
-killall SpringBoard
