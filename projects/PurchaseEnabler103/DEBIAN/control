@@ -1,0 +1,10 @@
+Package: com.mtac.purchaseenabler103
+Name: PurchaseEnabler103
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Enable purchases through Cydia on iOS 10.3+
+Maintainer: MTAC
+Author: MTAC
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 120

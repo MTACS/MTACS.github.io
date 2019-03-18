@@ -1,0 +1,8 @@
+{
+	"name": "No LS Battery",
+	"desc_short": "Hide LS Battery",
+	"desc_long": "Hide that annoying battery popup on your lockscreen while charging",
+	"compatitle": "iOS 9, 10",
+	"changelog": "<strong>0.0.2</strong>",
+	"screenshot": null,
+}

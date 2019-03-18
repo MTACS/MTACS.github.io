@@ -1,0 +1,8 @@
+{
+	"name": "Phoenix Fix",
+	"desc_short": "Fix sed on iOS 9.3.5",
+	"desc_long": "Fix virtual firmware errors on iOS 9.3.5 Phoenix jailbreak",
+	"compatitle": "iOS 9.3.5",
+	"changelog": "<strong>0.1</strong>",
+	"screenshot": null,
+}

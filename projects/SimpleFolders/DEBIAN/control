@@ -1,0 +1,10 @@
+Package: com.mtac.simplefolders
+Name: SimpleFolders
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Make your iOS 10 folders look cleaner
+Maintainer: MTAC
+Author: MTAC
+Section: Tweaks
+Version: 1.0-1+debug
+Installed-Size: 120

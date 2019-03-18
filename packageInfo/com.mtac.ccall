@@ -1,0 +1,8 @@
+{
+	"name": "CCall",
+	"desc_short": "Make a call from ControlCenter!",
+	"desc_long": "Make a phone call from your ControlCenter on iOS 10",
+	"compatitle": "iOS, 10",
+	"changelog": "<strong>Added page, nothing else added</strong>",
+	"screenshot": null,
+}

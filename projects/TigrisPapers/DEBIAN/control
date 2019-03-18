@@ -1,0 +1,11 @@
+Package: com.mtac.tigrispapers
+Name: TigrisPapers
+Depends:
+Version: 1.0
+Architecture: iphoneos-arm
+Description: iOS 11 (Tigris) Wallpapers for iOS 10 and below
+Homepage:
+Depiction: https://mtacs.github.io/description.html?id=com.mtac.tigrispapers
+Maintainer: MTAC <mtactheming@gmail.com>
+Author: MTAC <mtactheming@gmail.com>
+Section: Wallpaper

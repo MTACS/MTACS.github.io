@@ -1,0 +1,160 @@
+Package: com.mtac.barvol
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: MTAC
+Depends: mobilesubstrate
+Filename: debs/com.mtac.barvol_0.1_iphoneos-arm.deb
+Size: 49286
+MD5sum: 79bb0d9beac2376168c1ab6c018ae6bf
+SHA1: e064cd1c15b9ba5762585a4f38c32811877a2c8d
+SHA256: 79bc5456431ca1cbcbd7072d6f5816e49318c5f5ed8c4a180e008ce1fcabbac8
+Section: Tweaks
+Description: Progress bar for StatusVol
+Author: MTAC
+Depiction: https://mtacs.github.io/description.html?id=com.mtac.barvol
+Name: BarVol
+
+Package: com.mtac.cleancydiatabs
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: MTAC
+Installed-Size: 248
+Depends: mobilesubstrate
+Filename: debs/com.mtac.cleancydiatabs_0.0.2-1+debug_iphoneos-arm.deb
+Size: 12468
+MD5sum: c5bb06a4e3c3318f84dbed77bd0ac978
+SHA1: 84c71ce62add9afc8c0c1fbd932a5abbac8918de
+SHA256: c6230853aa81e515fd8b2bfcc8ebb038abffb5adb6995eea29bcff5711a24a4b
+Section: Tweaks
+Description: Clean up Cydia's TabBar for iPhone X
+Author: MTAC
+Name: CleanCydiaTabs
+
+Package: com.mtac.cleanmusiccc
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: MTAC
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: debs/com.mtac.cleanmusiccc_1.0-1+debug_iphoneos-arm.deb
+Size: 1992
+MD5sum: 5f85cd6a04d153a4b8e1b9b7cfab6c0b
+SHA1: ad6a77e85f79134d5412d746337601c83c8ce8b3
+SHA256: 7f32696a1585bd12e2a66994d05db9ce54f4122ba06bf55eae8ed0b513e308f2
+Section: Tweaks
+Description: Clean up your ControlCenter by removing now playing devices
+Author: MTAC
+Name: CleanMusicCC
+
+Package: com.mtac.noigacclimit
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: MTAC
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.mtac.noigacclimit_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4420
+MD5sum: 172c56867b109d67bcec0d891932b77d
+SHA1: 789f944e0cba29fea55d2c5ecf232fa696a8c89f
+SHA256: 824483ad5212937f5406b0ab4b9c231fffb60aa34033276644fff8d708176938
+Section: Tweaks
+Description: Allow more than 5 accounts on Instagram
+Author: MTAC
+Depiction: https://mtacs.github.io/description.html?id=com.mtac.noigaccountlimit
+Name: NoIGAccountLimit
+
+Package: com.mtac.nosharexi
+Version: 1.1.0-1
+Architecture: iphoneos-arm
+Maintainer: MTAC
+Installed-Size: 56
+Depends: mobilesubstrate
+Filename: debs/com.mtac.nosharexi_1.1.0-1_iphoneos-arm.deb
+Size: 2866
+MD5sum: 2b08eac7cca4c947e427564ccc699062
+SHA1: 23889b26901ee1fadb0bf3ef37a8686b8b7c7aa7
+SHA256: 5136ace918247ceb48047a43fca4ac0dc9cde7799da7a8ebd1efe65f5628d10b
+Section: Tweaks
+Description: Get rid of the annoying Share option on AppStore apps
+Author: MTAC
+Name: NoShareXI
+
+Package: com.mtac.noupdatedotsxi
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: MTAC
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debs/com.mtac.noupdatedotsxi_0.0.1-2+debug_iphoneos-arm.deb
+Size: 4104
+MD5sum: 29bdd891f9d8f9bc44ec58690bf013a7
+SHA1: e5ac1b232ea3072772bd6d89e2d2009f1cd76be7
+SHA256: e405de9442236d8b462e50e39f20d6a9620ae2b8ce53448792fe29e4733af231
+Section: Tweaks
+Description: Hide recently updated app dots
+Author: MTAC
+Name: NoUpdateDotsXI
+
+Package: com.mtac.roundedstatus
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: MTAC <mtactheming@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: debs/com.mtac.roundedstatus_1.1_iphoneos-arm.deb
+Size: 58806
+MD5sum: b0459b657c48e5748095d31cf29945bd
+SHA1: 55fdca16719c20b2f45cfc12fb94eb84fc520576
+SHA256: c28eb08057da70fa616899722115588655043b5bd922c8c9657b980bf44a7a4f
+Section: Themes
+Description: Rounded Status theme originally by Joel49
+Author: MTAC <mtactheming@gmail.com>
+Depiction: https://mtacs.github.io/description.html?id=com.mtac.roundedstatus
+Name: Rounded Status
+
+Package: com.mtac.simplefolders
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: MTAC
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.mtac.simplefolders_1.0-1+debug_iphoneos-arm.deb
+Size: 4376
+MD5sum: eea6740a3c2324602b4fabe2784c6676
+SHA1: 1322ead06354e5c78efcb1510ee89bf0a16b9db2
+SHA256: 1ef84234302c350a0968a183b059291da0b525276800fd0f53792c0fa47db93a
+Section: Tweaks
+Description: Make your iOS 10 folders look cleaner
+Author: MTAC
+Name: SimpleFolders
+
+Package: com.mtac.simplesettings
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: MTAC
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: debs/com.mtac.simplesettings_0.0.1_iphoneos-arm.deb
+Size: 2802
+MD5sum: 461682d49a95851eba3220ab132cb667
+SHA1: 1eaae631b1010f76e79126472af088a896378f29
+SHA256: 806116a17bdee0ad994defedadc991f29f9c2570fbebbb36ec3d11f085605ef9
+Section: Tweaks
+Description: Simplify your Settings!
+Author: MTAC
+Name: SimpleSettings
+
+Package: com.mtac.terminalpower
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MTAC <mtactheming@gmail.com>
+Filename: debs/com.mtac.terminalpower_1.0_iphoneos-arm.deb
+Size: 748
+MD5sum: 29df8121aa4b635d17947e313dbffee3
+SHA1: 14a7ad7ed6b7aba179501de8968fd75c8582cca1
+SHA256: 6cf16d13d8076c6469952ad1ecddd856e52baa8ad1c54434e7765b09fa79aaeb
+Section: Utilities
+Description: Safemode & Respring via one terminal command
+Author: MTAC <mtactheming@gmail.com>
+Depiction: https://mtacs.github.io/description.html?id=com.mtac.terminalpower
+Name: Terminal Power
+

@@ -1,0 +1,8 @@
+{
+	"name": "Substrate Alert",
+	"desc_short": "Tells when substrate is loaded",
+	"desc_long": "Tells when substrate is loaded",
+	"compatitle": "iOS 9, 10",
+	"changelog": "<strong>0.0.2</strong>",
+	"screenshot": null,
+}
