@@ -111,8 +111,8 @@
              },
              {
                 "URL":"https://mtacs.github.io/images/profile.png",
-                "width":27,
-                "height":27,
+                "width":50,
+                "height":50,
                 "alignment":1,
                 "cornerRadius":0,
                 "class":"DepictionImageView"
