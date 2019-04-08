@@ -1,0 +1,11 @@
+Package: com.mtac.3dpercentage
+Name: 3DPercentage
+SileoDepiction: https://mtacs.github.io/sileo/nosharexi/com.mtac.3dpercentage.json
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: View your battery percentage from Settings 3D Touch platter
+Maintainer: MTAC
+Author: MTAC
+Section: Tweaks
+Version: 0.0.1-7+debug
+Installed-Size: 216
