@@ -5,9 +5,9 @@ Maintainer: MTAC
 Depends: mobilesubstrate
 Filename: debs/com.mtac.barvol_0.1_iphoneos-arm.deb
 Size: 49286
-MD5sum: caf4c7e94dc5d92afeebb2d73031f3a4
-SHA1: 350b21cef09a07f7894b15ef6de36f206dbedba6
-SHA256: 21707abc4302bc4d6ca42d2560f5385670459e22119cc23f2c3b5e564b155d15
+MD5sum: 8e4bfd68fe70e5c3eb872246d333f93a
+SHA1: 08590f28f8f4f8ba68fb6a888db90be618680474
+SHA256: 29066410b9b42bcf2ee716a0b272848f3e0e2b7d40ea4711b70894ab86ace6f9
 Section: Tweaks
 Description: Progress bar for StatusVol
 Author: MTAC
@@ -22,9 +22,9 @@ Installed-Size: 248
 Depends: mobilesubstrate
 Filename: debs/com.mtac.cleancydiatabs_0.0.2-1+debug_iphoneos-arm.deb
 Size: 12468
-MD5sum: 11b68a21d3b65ca80e0be9dc830a0443
-SHA1: 4ee728b0d95a004f445ae175ddeda93aa2640257
-SHA256: 86018864cca715821b4c20fa9b5bfbdb17930dfcdcbfe456fcc107c28f452abb
+MD5sum: 47c3f92e4620306b85bc1db8b0b40bf5
+SHA1: 0a93c7986d6abddc9c9d902678e71485770e6bd1
+SHA256: ef1fbf8fcb992fb3ea3ffba1553f8ba3b18fd2a4d6ab5077af2fc8a56447e524
 Section: Tweaks
 Description: Clean up Cydia's TabBar for iPhone X
 Author: MTAC
@@ -38,9 +38,9 @@ Installed-Size: 200
 Depends: mobilesubstrate, firmware (>= 10.0)
 Filename: debs/com.mtac.cleanmusiccc_1.0-1+debug_iphoneos-arm.deb
 Size: 1992
-MD5sum: 9668332a466571df60d5b4955df80c73
-SHA1: 73366f49f0c4fdc08fe6b4b4125dbc43a919bf78
-SHA256: d8caa37e60a6ae3696abb00540c49819a12ca88fa8cdbb69c31be015eede13de
+MD5sum: c88d7f6903e88e24e42611b786221dc4
+SHA1: f7cbcd17784a2052b174567a6dcba7b5959e2c06
+SHA256: 22bdb7e3310f79c4a463f33254d94a4c7e6e59607dafaa0742e4fc87b7ecde35
 Section: Tweaks
 Description: Clean up your ControlCenter by removing now playing devices
 Author: MTAC
@@ -54,9 +54,9 @@ Installed-Size: 120
 Depends: mobilesubstrate
 Filename: debs/com.mtac.noigacclimit_0.0.1-1+debug_iphoneos-arm.deb
 Size: 4420
-MD5sum: 677798a7452912a2d19ec90d714809a2
-SHA1: cd113b765e2e391982230a0f37e9f506444ccb09
-SHA256: 2c35240db48b75e47d0d9920ab4cc33c765ceaf010497323f630c03de0b42943
+MD5sum: 02e3d25d0ea69d49f29816ecfe41ede5
+SHA1: 7ab3d3a08d2ff1dc5e1a73ad8a26e08b79bfef87
+SHA256: a8c44210115a153c0805414b5172c50d1502687e089eb73786159abddef99ab1
 Section: Tweaks
 Description: Allow more than 5 accounts on Instagram
 Author: MTAC
@@ -70,14 +70,15 @@ Maintainer: MTAC
 Installed-Size: 56
 Depends: mobilesubstrate
 Filename: debs/com.mtac.nosharexi_1.1.0-1_iphoneos-arm.deb
-Size: 2866
-MD5sum: 2363c4993b3a3f822c7e93284c6767ba
-SHA1: 91ba4759c79c18acb9bb4b99a9dea7f1ec6d94cb
-SHA256: 79874cf3160a0a6ea150286d360de030a2083fa9eda003e7c3767fc91205ebd3
+Size: 3332
+MD5sum: 0a75d94d81ea03090a9f799e1cb9a06c
+SHA1: 61e1292263ee71235ee48ec250af5154f562272d
+SHA256: 162395c629ce65a2c81fb9c65ea493b702d8869afa0f67ca981e04dc0762f853
 Section: Tweaks
 Description: Get rid of the annoying Share option on AppStore apps
 Author: MTAC
 Name: NoShareXI
+Sileodepiction: https://mtacs.github.io/sileo/nosharexi/com.mtac.nosharexi.json
 
 Package: com.mtac.noupdatedotsxi
 Version: 0.0.1-2+debug
@@ -87,9 +88,9 @@ Installed-Size: 104
 Depends: mobilesubstrate
 Filename: debs/com.mtac.noupdatedotsxi_0.0.1-2+debug_iphoneos-arm.deb
 Size: 4104
-MD5sum: 20f72fb593b06326d60555bc50aa102b
-SHA1: f169a75a2f4233e07f156067be046d4be496c5f4
-SHA256: 7977086fd29fd5203f8cfb563ad5ee22969fae513fd61690b17c77498e8db1be
+MD5sum: 520541fe0f46081a8dae9e62c777e4e9
+SHA1: eadd64896188633e249f4e7af8f284acb2dd7a88
+SHA256: 7268da5a85600efa0a00daa6f8fbeed81e1e471a718792457764d9cf6e377fea
 Section: Tweaks
 Description: Hide recently updated app dots
 Author: MTAC
@@ -102,9 +103,9 @@ Maintainer: MTAC <mtactheming@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: debs/com.mtac.roundedstatus_1.1_iphoneos-arm.deb
 Size: 58806
-MD5sum: 00424b2bb0fdbe6ada2c0e7a649e66ac
-SHA1: a7d7d2ad2dbb8bd25bde603398c90cc1763d3434
-SHA256: fc6ecc45e0e72f0ced33232ef03fd4c9a1cbbdde1b2ae0e0fb68f5a657ea2921
+MD5sum: 3428a59959a98829a7bc9999a4e512d4
+SHA1: f7d8f854be3f5b2eb79dac1133c5d6776857abc4
+SHA256: b74a7fdc6a9cb3d44ea8ea55aaaddf0de22a2de766c79f34a39cb69c4057a616
 Section: Themes
 Description: Rounded Status theme originally by Joel49
 Author: MTAC <mtactheming@gmail.com>
@@ -119,9 +120,9 @@ Installed-Size: 120
 Depends: mobilesubstrate
 Filename: debs/com.mtac.simplefolders_1.0-1+debug_iphoneos-arm.deb
 Size: 4376
-MD5sum: 0bc4d9b4d0e0732518ecf9e9dfa96d16
-SHA1: b43f3d3cb959b1c07d63895428818dc9e5f370c9
-SHA256: 59c109081bfd17c3918e3dcf69d613c158c24d986572773d858674acf92a931d
+MD5sum: f8bb7df2e8152a9e5cd352386ae00b7b
+SHA1: e4477c7d268b17686847bf13a11f6aa425d2a3b9
+SHA256: ee9eb804c8fc07e434ed779d65bc2308e6675d87ee69f9e592aec660cf2269bf
 Section: Tweaks
 Description: Make your iOS 10 folders look cleaner
 Author: MTAC
@@ -135,9 +136,9 @@ Installed-Size: 72
 Depends: mobilesubstrate
 Filename: debs/com.mtac.simplesettings_0.0.1_iphoneos-arm.deb
 Size: 2802
-MD5sum: 0f29ed38d6252cd15ab8636d1b21762a
-SHA1: 71e45ed15e02acccf304b95e90e28f4e56bc27fd
-SHA256: 10cb49aedce674dd0d0b4eb04d836d02b87ed556efa06f6c0b7fa565583d1352
+MD5sum: a9038e5f3452ba1a281076d984ee4e5f
+SHA1: fb4d7601acb5f5d51d51f230ee656111c5b43277
+SHA256: 0540a73f686a111fe3550b13cd99f110cf6fb6463dbb7c14ee35dffce108ab31
 Section: Tweaks
 Description: Simplify your Settings!
 Author: MTAC
@@ -149,9 +150,9 @@ Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
 Filename: debs/com.mtac.terminalpower_1.0_iphoneos-arm.deb
 Size: 748
-MD5sum: 3b5814e767a81a0395924b2860f36f34
-SHA1: 3909ab8db06437af1f4bda6bfe9d1a3380e5d1e7
-SHA256: fd36f914febd09a661fb183074da5861fb07567c33c7a7a7477294516586b071
+MD5sum: 1caf8d60f541a8bbd27cd8014bcb8cda
+SHA1: 8a6c3fa0c582371001cbf5e269969a33429bc7c8
+SHA256: 471b31b623b0be8b01f7f9a643f40fb29bb61a2f0dcb1a76eb0f6d463d4512ee
 Section: Utilities
 Description: Safemode & Respring via one terminal command
 Author: MTAC <mtactheming@gmail.com>
