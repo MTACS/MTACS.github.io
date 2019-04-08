@@ -1,8 +1,0 @@
-{
-	"name": "Runtime Browser",
-	"desc_short": "View current loaded processes",
-	"desc_long": "View current loaded processes via a GUI",
-	"compatitle": "iOS 7, 8, 9, 10",
-	"changelog": "<strong>0.0.1</strong>",
-	"screenshot": null,
-}

@@ -1,5 +1,6 @@
 Package: com.mtac.nosharexi
 Name: NoShareXI
+SileoDepiction: https://mtacs.github.io/sileo/com.mtac.nosharexi.json
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Get rid of the annoying Share option on AppStore apps

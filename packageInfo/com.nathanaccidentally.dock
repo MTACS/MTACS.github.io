@@ -1,8 +1,0 @@
-{
-	"name": "Dock",
-	"desc_short": "iOS 11 iPad Dock",
-	"desc_long": "iOS 11 iPad Dock for iPhones",
-	"compatitle": "iOS 7, 8, 9, 10",
-	"changelog": "<strong>0.0.2-1+debug</strong>",
-	"screenshot": null,
-}
