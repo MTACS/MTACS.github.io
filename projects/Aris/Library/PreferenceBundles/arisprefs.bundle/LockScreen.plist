@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Lockscreen Clock Font</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.mtac.arisprefs</string>
+			<key>PostNotification</key>
+			<string>com.mtac.arisprefs/settingsupdated</string>
+			<key>key</key>
+			<string>boldFont</string>
+			<key>label</key>
+			<string>Use custom font weight</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSegmentCell</string>
+			<key>label</key>
+			<string>Setting2</string>
+			<key>key</key>
+			<string>fontStyle</string>
+			<key>default</key>
+			<integer>0</integer>
+			<key>validTitles</key>
+			<array>
+				<string>Italic</string>
+				<string>Bold</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>0</integer>
+				<integer>1</integer>
+			</array>
+			<key>defaults</key>
+			<string>com.mtac.arisprefs</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.mtac.arisprefs</string>
+			<key>PostNotification</key>
+			<string>com.mtac.arisprefs/settingsupdated</string>
+			<key>key</key>
+			<string>useFontSize</string>
+			<key>label</key>
+			<string>Use custom font size</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>defaults</key>
+			<string>com.mtac.arisprefs</string>
+			<key>PostNotification</key>
+			<string>com.mtac.arisprefs/settingsupdated</string>
+			<key>detail</key>
+			<string>PSDetailController</string>
+			<key>key</key>
+			<string>fontSize</string>
+			<key>label</key>
+			<string></string>
+			<key>placeholder</key>
+			<string>Default: 80</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Page Dots</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.mtac.arisprefs</string>
+			<key>PostNotification</key>
+			<string>com.mtac.arisprefs/settingsupdated</string>
+			<key>key</key>
+			<string>hidelsdots</string>
+			<key>label</key>
+			<string>Hide Lockscreen Page Dots</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Lockscreen Text</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.mtac.arisprefs</string>
+			<key>PostNotification</key>
+			<string>com.mtac.arisprefs/settingsupdated</string>
+			<key>key</key>
+			<string>lsmessage</string>
+			<key>label</key>
+			<string>Hide Lockscreen Text</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.mtac.arisprefs</string>
+			<key>PostNotification</key>
+			<string>com.mtac.arisprefs/settingsupdated</string>
+			<key>key</key>
+			<string>swipestring</string>
+			<key>label</key>
+			<string>Custom String (iPhone X only)</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>defaults</key>
+			<string>com.mtac.arisprefs</string>
+			<key>PostNotification</key>
+			<string>com.mtac.arisprefs/settingsupdated</string>
+			<key>detail</key>
+			<string>PSDetailController</string>
+			<key>key</key>
+			<string>swipetounlock</string>
+			<key>label</key>
+			<string></string>
+			<key>placeholder</key>
+			<string>Swipe up to Unlock</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.mtac.arisprefs</string>
+			<key>PostNotification</key>
+			<string>com.mtac.arisprefs/settingsupdated</string>
+			<key>key</key>
+			<string>pressstring</string>
+			<key>label</key>
+			<string>Custom String</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>defaults</key>
+			<string>com.mtac.arisprefs</string>
+			<key>PostNotification</key>
+			<string>com.mtac.arisprefs/settingsupdated</string>
+			<key>detail</key>
+			<string>PSDetailController</string>
+			<key>key</key>
+			<string>presstounlock</string>
+			<key>label</key>
+			<string></string>
+			<key>placeholder</key>
+			<string>Press Home to Unlock</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>LockScreen</string>
+</dict>
+</plist>
