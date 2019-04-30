@@ -1,5 +1,5 @@
 @import url("font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic");
+@import url('https://fonts.googleapis.com/css?family=Crete+Round');
 
 	/* START POPUP */
 
@@ -15,7 +15,9 @@
 		transition: 0.3s;
 	  }
 
-	  #img:hover {opacity: 0.7;}
+	  #img:hover {
+		opacity: 0.7;
+		}
 
 	  .modal {
 		display: none; /* Hidden by default */
@@ -3057,7 +3059,7 @@
 	}
 
 	#header {
-		background: #444;
+		background: #f5f5f5;
 		color: #bbb;
 		cursor: default;
 		height: 3.25em;
@@ -3081,7 +3083,7 @@
 		}
 
 			#header h1 a {
-				color: #fff;
+				color: #000;
 				font-weight: 400;
 				border: 0;
 			}
@@ -3119,7 +3121,7 @@
 					}
 
 					#header nav > ul > li a:not(.button) {
-						color: #fff;
+						color: #000;
 						display: inline-block;
 						text-decoration: none;
 						border: 0;
@@ -3307,7 +3309,8 @@
 		}
 
 		#banner h2 {
-			font-size: 3.5em;
+			font-size: 5.0em;
+			font-weight: bold;
 			line-height: 1em;
 			margin: 0 0 0.5em 0;
 			padding: 0;
@@ -3346,8 +3349,8 @@
 			#banner input[type="reset"].primary,
 			#banner input[type="button"].primary,
 			#banner .button.primary {
-				background: #fff;
-				color: #666 !important;
+				background: #3498DB;
+				color: #fff !important;
 			}
 
 /* Main */
