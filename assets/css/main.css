@@ -3293,7 +3293,7 @@
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
-		color: #fff;
+		color: #000;
 		padding: 12em 0 20em 0;
 		text-align: center;
 	}
@@ -3303,7 +3303,7 @@
 		}
 
 		#banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
-			color: #fff;
+			color: #000;
 		}
 
 		#banner h2 {
