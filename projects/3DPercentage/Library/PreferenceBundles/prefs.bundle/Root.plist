@@ -28,6 +28,40 @@
 			<key>cell</key>
 			<string>PSGroupCell</string>
 			<key>label</key>
+			<string>Options</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.mtac.battprefs</string>
+			<key>key</key>
+			<string>wifi</string>
+			<key>PostNotification</key>
+			<string>com.mtac.battprefs/settingsupdated</string>
+			<key>label</key>
+			<string>Display WiFi address</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.mtac.battprefs</string>
+			<key>key</key>
+			<string>batteryPercentage</string>
+			<key>PostNotification</key>
+			<string>com.mtac.battprefs/settingsupdated</string>
+			<key>label</key>
+			<string>Display Battery Percentage</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
 			<string>Contact &amp; Support</string>
 		</dict>
 		<dict>
