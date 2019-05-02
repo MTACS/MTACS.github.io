@@ -47,7 +47,7 @@
                 "class":"DepictionScreenshotsView"
              },
              {
-                "markdown":"Remove the deprecated warning in Sileo when a package uses a stand web depiction",
+                "markdown":"Remove the deprecated warning in Sileo when a package uses a standard web depiction",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
              },
