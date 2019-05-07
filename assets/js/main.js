@@ -30,7 +30,7 @@
 	// NavPanel.
 
 		// Button.
-			$(
+			/* $(
 				'<div id="navButton">' +
 					'<a href="#navPanel" class="toggle"></a>' +
 				'</div>'
@@ -55,7 +55,7 @@
 					side: 'left',
 					target: $body,
 					visibleClass: 'navPanel-visible'
-				});
+				}); */
 
 	// Header.
 		if (!browser.mobile

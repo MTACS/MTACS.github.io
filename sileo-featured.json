@@ -1,0 +1,16 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{263, 148}",
+  "itemCornerRadius": 10,
+  "banners": [{
+    "url": "https://github.com/MTACS/MTACS.github.io/blob/master/images/3dpercentagefeatured.png",
+    "title": "3DPercentage",
+    "package": "com.mtac.3dpercentage",
+    "hideShadow": false
+  }, {
+    "url": "https://github.com/MTACS/MTACS.github.io/blob/master/images/nosharexifeatured.png",
+    "title": "NoShareXI",
+    "package": "com.mtac.nosharexi",
+    "hideShadow": false
+  }]
+}
