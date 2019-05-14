@@ -1,8 +1,8 @@
-Origin: MTAC's Repo
+Origin: Repo moved to https://repo.mtac.app
 Label: MTAC
 Suite: stable
 Version: 1.0
 Codename: cydia-ios
 Architectures: iphoneos-arm
 Components: main
-Description: MTAC's Repo
+Description: MTAC's Old Repo

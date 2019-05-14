@@ -1,9 +1,0 @@
-Package: com.sharedroutine.tactful
-Name: Tactful
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: Janosch
-Author: Janosch
-Section: Tweaks
-Version: 1.3-1
